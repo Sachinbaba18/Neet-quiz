@@ -1,1 +1,423 @@
+[
+  {
+    "q": "Which of the following is a defining characteristic of living organisms without any exception?",
+    "options": ["Growth", "Reproduction", "Metabolism", "Cellular organization"],
+    "correct": 3,
+    "year": 2023,
+    "solution": "Cellular organization of the body is the defining feature of life forms without any exception. Growth and reproduction have exceptions (e.g., sterile worker bees, mules), while metabolism occurs in cell-free systems as isolated reactions."
+  },
+  {
+    "q": "Non-living objects also exhibit growth by accumulation of material on the surface. This type of growth is known as:",
+    "options": ["Intrinsic growth", "Accretion", "Intussusception", "Hyperplasia"],
+    "correct": 1,
+    "year": 2021,
+    "solution": "Non-living objects grow by accumulation of material on the surface, which is extrinsic growth or accretion. Living organisms exhibit intrinsic growth (intussusception)."
+  },
+  {
+    "q": "In unicellular organisms like Amoeba and Bacteria, which of the following statements is correct regarding growth and reproduction?",
+    "options": ["Growth and reproduction are mutually exclusive events.", "Growth and reproduction are synonymous/inclusive events.", "Growth occurs without cell division.", "Reproduction occurs without increase in mass."],
+    "correct": 1,
+    "year": 2022,
+    "solution": "In unicellular organisms, growth is equivalent to increase in number of cells, making growth and reproduction mutually inclusive or synonymous."
+  },
+  {
+    "q": "Which set of organisms reproduce exclusively by asexual spores or fragmentation/regeneration?",
+    "options": ["Mule, Worker bee, Infertile human couple", "Planaria, Filamentous algae, Fungi", "Amoeba, Paramecium, Hydra", "Bacteria, Mycoplasma, Viruses"],
+    "correct": 1,
+    "year": 2020,
+    "solution": "Fungi (fragmentation/spores), filamentous algae, and moss protonema reproduce easily by fragmentation. Planaria shows true regeneration."
+  },
+  {
+    "q": "Select the INCORRECT statement regarding metabolism:",
+    "options": ["All plants, animals, fungi and microbes exhibit metabolism.", "No non-living object exhibits metabolism.", "Isolated metabolic reactions in-vitro are living organisms.", "Isolated metabolic reactions in-vitro are living reactions."],
+    "correct": 2,
+    "year": 2019,
+    "solution": "Isolated metabolic reactions in-vitro are not living organisms, but they are surely living reactions."
+  },
+  {
+    "q": "Photoperiod affects reproduction in which type of organisms?",
+    "options": ["Only seasonal breeders in animals", "Only seasonal breeders in plants", "Seasonal breeders, both plants and animals", "All living organisms irrespective of breeding season"],
+    "correct": 2,
+    "year": 2021,
+    "solution": "Photoperiod affects reproduction in seasonal breeders, both plants and animals (NCERT line)."
+  },
+  {
+    "q": "The total number of species that are known and described ranges between:",
+    "options": ["1.1 - 1.2 million", "1.7 - 1.8 million", "2.5 - 3.0 million", "5.0 - 7.0 million"],
+    "correct": 1,
+    "year": 2020,
+    "solution": "Biodiversity refers to the number and types of organisms present on earth, currently estimated between 1.7 to 1.8 million (17-18 lakh)."
+  },
+  {
+    "q": "According to ICBN, what does the suffix '-aceae' denote in plant taxonomy?",
+    "options": ["Order", "Class", "Family", "Genus"],
+    "correct": 2,
+    "year": 2018,
+    "solution": "The suffix '-aceae' represents a plant Family (e.g., Solanaceae, Poaceae, Fabaceae)."
+  },
+  {
+    "q": "In the scientific name *Mangifera indica* L., what does 'L.' represent?",
+    "options": ["Lectotype", "Linnaeus, who first described the species", "Latin language origin", "Local name"],
+    "correct": 1,
+    "year": 2019,
+    "solution": "The abbreviation 'L.' stands for Linnaeus, indicating that the species was first described by Carolus Linnaeus."
+  },
+  {
+    "q": "Systematics differs from taxonomy primarily because systematics includes:",
+    "options": ["Identification and Naming", "Classification and Nomenclature", "Evolutionary relationships among organisms", "Characterization of organisms"],
+    "correct": 2,
+    "year": 2022,
+    "solution": "Systematics takes into account evolutionary (phylogenetic) relationships between organisms along with identification, nomenclature, and classification."
+  },
+  {
+    "q": "Which of the following is the correct hierarchical sequence of taxonomic categories in ascending order?",
+    "options": ["Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom", "Kingdom -> Phylum -> Class -> Order -> Family -> Genus -> Species", "Species -> Genus -> Order -> Family -> Class -> Phylum -> Kingdom", "Species -> Family -> Genus -> Order -> Class -> Phylum -> Kingdom"],
+    "correct": 0,
+    "year": 2020,
+    "solution": "Ascending order goes from lowest to highest category: Species -> Genus -> Family -> Order -> Class -> Phylum/Division -> Kingdom."
+  },
+  {
+    "q": "As we go from species to kingdom in a taxonomic hierarchy, the number of common characteristics:",
+    "options": ["Increases", "Decreases", "Remains same", "First increases then decreases"],
+    "correct": 1,
+    "year": 2021,
+    "solution": "Lower the taxon, more are the characteristics that the members share. Higher the category, lesser is the number of common features."
+  },
+  {
+    "q": "Petunia and Datura are placed in the family Solanaceae mainly on the basis of:",
+    "options": ["Vegetative features only", "Floral/Reproductive features only", "Both vegetative and floral features", "Anatomical characters only"],
+    "correct": 2,
+    "year": 2019,
+    "solution": "Plant families like Solanaceae are characterized based on both vegetative and reproductive features of plant species."
+  },
+  {
+    "q": "Order Polymoniales includes plant families like Convolvulaceae and Solanaceae. This classification is mainly based on:",
+    "options": ["Floral characters", "Vegetative characters", "Anatomical characters", "Cytological characters"],
+    "correct": 0,
+    "year": 2021,
+    "solution": "Plant orders like Polymoniales are grouped together primarily based on floral characters."
+  },
+  {
+    "q": "Which taxonomic category contains organisms with the HIGHEST degree of similarity?",
+    "options": ["Class", "Order", "Family", "Genus"],
+    "correct": 3,
+    "year": 2020,
+    "solution": "Among the given options, Genus is the lowest category, so it contains organisms with the highest similarity."
+  },
+  {
+    "q": "Match the following biological names with their taxonomic Order:\n(a) Housefly - (i) Sapindales\n(b) Mango - (ii) Poales\n(c) Wheat - (iii) Diptera\n(d) Human - (iv) Primata",
+    "options": ["a-iii, b-i, c-ii, d-iv", "a-i, b-iii, c-ii, d-iv", "a-iii, b-ii, c-i, d-iv", "a-iv, b-i, c-ii, d-iii"],
+    "correct": 0,
+    "year": 2023,
+    "solution": "Housefly = Diptera, Mango = Sapindales, Wheat = Poales, Human = Primata."
+  },
+  {
+    "q": "Housefly belongs to which Class and Phylum respectively?",
+    "options": ["Insecta and Chordata", "Insecta and Arthropoda", "Diptera and Arthropoda", "Arthropoda and Insecta"],
+    "correct": 1,
+    "year": 2022,
+    "solution": "Housefly (*Musca domestica*) belongs to Class Insecta and Phylum Arthropoda."
+  },
+  {
+    "q": "Find the CORRECT match for Wheat (*Triticum aestivum*):",
+    "options": ["Family: Poaceae, Order: Sapindales", "Family: Solanaceae, Order: Poales", "Family: Poaceae, Order: Poales, Class: Monocotyledonae", "Family: Anacardiaceae, Order: Poales"],
+    "correct": 2,
+    "year": 2021,
+    "solution": "Wheat taxonomic hierarchy: Family - Poaceae, Order - Poales, Class - Monocotyledonae, Division - Angiospermae."
+  },
+  {
+    "q": "Mango (*Mangifera indica*) belongs to the family:",
+    "options": ["Poaceae", "Anacardiaceae", "Solanaceae", "Fabaceae"],
+    "correct": 1,
+    "year": 2020,
+    "solution": "Mango belongs to the family Anacardiaceae and order Sapindales."
+  },
+  {
+    "q": "Which of the following is NOT a binomial nomenclature rule?",
+    "options": ["Biological names are generally in Latin and written in italics.", "The first word represents Genus and starts with a capital letter.", "Both words when handwritten are underlined together with a single line.", "The second word represents the specific epithet and starts with a small letter."],
+    "correct": 2,
+    "year": 2019,
+    "solution": "When handwritten, both words are separately underlined (or printed in italics) to indicate their Latin origin."
+  },
+  {
+    "q": "Herbarium sheet standard size in centimeters is approximately:",
+    "options": ["29 x 41 cm", "15 x 30 cm", "30 x 40 cm", "20 x 25 cm"],
+    "correct": 0,
+    "year": 2018,
+    "solution": "Standard herbarium sheet size is 29 x 41 cm (or 11.5 x 16.5 inches)."
+  },
+  {
+    "q": "Which information is NOT provided on a Herbarium sheet label?",
+    "options": ["Date and place of collection", "Collector's name", "Local, botanical and English names", "Height of the plant in wild state"],
+    "correct": 3,
+    "year": 2022,
+    "solution": "Herbarium labels carry date/place of collection, English/local/botanical names, family, and collector's name, but NOT plant height."
+  },
+  {
+    "q": "Botanical gardens contain:",
+    "options": ["Preserved plant specimens in jars", "Preserved animal skeletons", "Living plant specimens for reference and identification", "Dried, pressed plant sheets"],
+    "correct": 2,
+    "year": 2021,
+    "solution": "Botanical gardens are specialized gardens that have collections of living plants for reference."
+  },
+  {
+    "q": "Match the Botanical Garden with its location:\n(1) Royal Botanical Garden - (i) Howrah, India\n(2) National Botanical Research Institute - (ii) Kew, England\n(3) Indian Botanical Garden - (iii) Lucknow, India",
+    "options": ["1-ii, 2-iii, 3-i", "1-i, 2-iii, 3-ii", "1-ii, 2-i, 3-iii", "1-iii, 2-ii, 3-i"],
+    "correct": 0,
+    "year": 2020,
+    "solution": "Royal Botanical Garden is in Kew (England), NBRI in Lucknow (India), and Indian Botanical Garden in Howrah (India)."
+  },
+  {
+    "q": "Museums have collections of preserved plant and animal specimens for study. Insects are preserved in museum by:",
+    "options": ["Keeping in 10% formalin solution", "Stuffing with cotton and chemicals", "Collecting, killing and pinning in insect boxes", "Drying and mounting on cardboard"],
+    "correct": 2,
+    "year": 2019,
+    "solution": "Insects are preserved in insect boxes after collecting, killing, and pinning."
+  },
+  {
+    "q": "Larger animals like birds and mammals are usually preserved in museums as:",
+    "options": ["Skeletons only", "Stuffed and preserved specimens", "Formalin jars", "Dried slides"],
+    "correct": 1,
+    "year": 2021,
+    "solution": "Larger animals like birds and mammals are usually stuffed and preserved."
+  },
+  {
+    "q": "Key is a taxonomic aid used for identification based on similarities and dissimilarities. A key is based on contrasting characters generally in a pair called:",
+    "options": ["Lead", "Couplet", "Monograph", "Manual"],
+    "correct": 1,
+    "year": 2022,
+    "solution": "The contrasting characters in a key generally in a pair are called a couplet."
+  },
+  {
+    "q": "Each statement in a Taxonomic Key is called a:",
+    "options": ["Couplet", "Lead", "Flora", "Catalog"],
+    "correct": 1,
+    "year": 2020,
+    "solution": "Each statement in the taxonomic key is called a lead."
+  },
+  {
+    "q": "Which taxonomic aid gives actual account of habitat and distribution of plants of a given area?",
+    "options": ["Manual", "Flora", "Monograph", "Catalogue"],
+    "correct": 1,
+    "year": 2023,
+    "solution": "Flora contains the actual account of habitat and distribution of plants of a given area."
+  },
+  {
+    "q": "Which taxonomic tool provides information for the identification of names of species found in an area?",
+    "options": ["Flora", "Manuals", "Monographs", "Catalogues"],
+    "correct": 1,
+    "year": 2021,
+    "solution": "Manuals are useful in providing information for identification of names of species found in an area."
+  },
+  {
+    "q": "Taxonomic aid which contains information on ANY ONE taxon is known as:",
+    "options": ["Manual", "Flora", "Monograph", "Catalogue"],
+    "correct": 2,
+    "year": 2022,
+    "solution": "Monographs contain complete information on any one taxon."
+  },
+  {
+    "q": "The term 'Taxonomy' was coined by:",
+    "options": ["Carolus Linnaeus", "A.P. de Candolle", "Aristotle", "John Ray"],
+    "correct": 1,
+    "year": 2017,
+    "solution": "The term 'Taxonomy' was first coined by A.P. de Candolle in 1813."
+  },
+  {
+    "q": "Who is known as the 'Father of Taxonomy'?",
+    "options": ["Aristotle", "Carolus Linnaeus", "Theophrastus", "Ernst Mayr"],
+    "correct": 1,
+    "year": 2018,
+    "solution": "Carolus Linnaeus is recognized as the Father of Taxonomy."
+  },
+  {
+    "q": "'Systema Naturae' was written by:",
+    "options": ["Ernst Mayr", "Carolus Linnaeus", "R.H. Whittaker", "Bentham and Hooker"],
+    "correct": 1,
+    "year": 2019,
+    "solution": "Linnaeus published his work on animal taxonomy in his book 'Systema Naturae'."
+  },
+  {
+    "q": "Ernst Mayr was awarded which prestigious prize often called 'The Darwin of the 20th Century'?",
+    "options": ["Nobel Prize", "Balzan Prize, Crafoord Prize, and International Prize for Biology", "Kyoto Prize", "FNS Award"],
+    "correct": 1,
+    "year": 2020,
+    "solution": "Ernst Mayr won the triple crown of biology: Balzan Prize (1983), International Prize for Biology (1994), and Crafoord Prize (1999)."
+  },
+  {
+    "q": "Biological concept of species was proposed by:",
+    "options": ["Carolus Linnaeus", "Ernst Mayr", "Julian Huxley", "John Ray"],
+    "correct": 1,
+    "year": 2021,
+    "solution": "Ernst Mayr proposed the biological concept of species based on reproductive isolation."
+  },
+  {
+    "q": "Group of interbreeding natural populations that are reproductively isolated from other such groups is called:",
+    "options": ["Genus", "Species", "Family", "Order"],
+    "correct": 1,
+    "year": 2022,
+    "solution": "Species is defined as a group of interbreeding natural populations reproductively isolated from other groups."
+  },
+  {
+    "q": "Genetically similar and interbreeding organisms belong to the same:",
+    "options": ["Taxon", "Species", "Genus", "Order"],
+    "correct": 1,
+    "year": 2019,
+    "solution": "Members of the same species share maximum structural and genetic similarities and can interbreed naturally."
+  },
+  {
+    "q": "Solanum, Panthera, and Felis are examples of:",
+    "options": ["Specific epithets", "Genera (Genus)", "Families", "Orders"],
+    "correct": 1,
+    "year": 2020,
+    "solution": "*Solanum*, *Panthera*, and *Felis* are genus names (Genera)."
+  },
+  {
+    "q": "*Panthera leo* (lion), *Panthera pardus* (leopard), and *Panthera tigris* (tiger) share the same:",
+    "options": ["Species epithet only", "Genus name only", "Both genus and species names", "Family name only"],
+    "correct": 1,
+    "year": 2021,
+    "solution": "They belong to the same genus (*Panthera*), but have different specific epithets (*leo*, *pardus*, *tigris*)."
+  },
+  {
+    "q": "Genus *Panthera* and Genus *Felis* (cats) are put together in which family?",
+    "options": ["Canidae", "Felidae", "Hominidae", "Muscidae"],
+    "correct": 1,
+    "year": 2022,
+    "solution": "Both genera (*Panthera* and *Felis*) are included in the cat family Felidae."
+  },
+  {
+    "q": "Dogs belong to the family:",
+    "options": ["Felidae", "Canidae", "Hominidae", "Anacardiaceae"],
+    "correct": 1,
+    "year": 2020,
+    "solution": "Dogs belong to the family Canidae, while cats belong to Felidae."
+  },
+  {
+    "q": "Which of the following order includes both Carnivora and Primata?",
+    "options": ["Class Mammalia", "Kingdom Animalia", "Phylum Chordata", "Superclass Tetrapoda"],
+    "correct": 0,
+    "year": 2023,
+    "solution": "Order Carnivora (tiger, dog, cat) and Order Primata (monkey, human) are placed together under Class Mammalia."
+  },
+  {
+    "q": "In scientific terminology, 'Taxon' represents:",
+    "options": ["A specific rank in classification", "A taxonomic group of any ranking category", "Only species level category", "Only highest kingdom level category"],
+    "correct": 1,
+    "year": 2021,
+    "solution": "Taxon (plural: taxa) represents a concrete biological group at any level of classification (e.g., Mammals, Insects, Solanaceae)."
+  },
+  {
+    "q": "Which of the following represents 'taxa' at different levels?",
+    "options": ["Dogs, Mammals, Animals", "Mango, Wheat, Rice", "Species, Genus, Family", "Kingdom, Phylum, Class"],
+    "correct": 0,
+    "year": 2020,
+    "solution": "Dogs (species/genus level), Mammals (class level), and Animals (kingdom level) represent real taxa at different hierarchical levels."
+  },
+  {
+    "q": "Select the WRONG pair of Category vs Taxon for Humans:",
+    "options": ["Phylum - Chordata", "Class - Mammalia", "Order - Hominidae", "Genus - Homo"],
+    "correct": 2,
+    "year": 2022,
+    "solution": "For humans: Order is **Primata**, while Hominidae is the **Family**."
+  },
+  {
+    "q": "Keys are generally _______ in nature.",
+    "options": ["Analytical", "Quantitative", "Morphological only", "Non-analytical"],
+    "correct": 0,
+    "year": 2021,
+    "solution": "Taxonomic keys are analytical in nature."
+  },
+  {
+    "q": "A quick referral system in taxonomic studies is provided by:",
+    "options": ["Botanical Garden", "Museum", "Herbarium", "Zoological Park"],
+    "correct": 2,
+    "year": 2018,
+    "solution": "Herbarium serves as a quick referral system in taxonomic studies."
+  },
+  {
+    "q": "Zoological parks are places where wild animals are kept in:",
+    "options": ["In-vitro artificial cells", "Protected environments under human care", "Complete natural habitats without human intervention", "Cages in museums"],
+    "correct": 1,
+    "year": 2020,
+    "solution": "Zoological parks keep wild animals in protected environments under human care to study their food habits and behavior."
+  },
+  {
+    "q": "In a Herbarium, plants are preserved after being:",
+    "options": ["Dried, pressed and preserved on sheets", "Kept in 70% alcohol", "Frozen at -196 degree Celsius", "Boiled and stained"],
+    "correct": 0,
+    "year": 2019,
+    "solution": "Herbarium is a store house of collected plant specimens that are dried, pressed, and preserved on sheets."
+  },
+  {
+    "q": "ICZN stands for:",
+    "options": ["International Code of Zoological Nomenclature", "International Code of Botanical Nomenclature", "Indian Code of Zoological Naming", "International Congress of Zoological Nomenclature"],
+    "correct": 0,
+    "year": 2021,
+    "solution": "ICZN = International Code of Zoological Nomenclature."
+  },
+  {
+    "q": "Scientific name of Mango was first described by Linnaeus as *Mangifera indica* Linnaeus. Which is the correct format?",
+    "options": ["*Mangifera indica* Linn.", "*Mangifera Indica* L.", "*mangifera indica* L.", "*Mangifera indica* L."],
+    "correct": 3,
+    "year": 2020,
+    "solution": "Genus starts with capital (*Mangifera*), species with small letter (*indica*), and author name capitalized in abbreviated form (*L.*)."
+  },
+  {
+    "q": "Consciousness is a defining property of living organisms. What is 'Self-consciousness'?",
+    "options": ["Awareness of surrounding environment present in all living beings", "State of coma where brain is dead", "Awareness of oneself, present ONLY in human beings", "Metabolic awareness in plants"],
+    "correct": 2,
+    "year": 2022,
+    "solution": "Consciousness is present in all living organisms, but 'self-consciousness' (awareness of oneself) is unique to humans."
+  },
+  {
+    "q": "A person in coma supported by machines in ICU has no self-consciousness. Such a patient is:",
+    "options": ["Dead completely", "Brain dead, but possesses metabolic living state", "Non-living organism", "Unconscious living entity with functioning brain"],
+    "correct": 1,
+    "year": 2021,
+    "solution": "A patient in coma is brain-dead and lacks self-consciousness, but underlying organs continue metabolic processes artificially."
+  },
+  {
+    "q": "Which of the following features is NOT true for living organisms?",
+    "options": ["Self-replicating systems", "Evolving systems", "Self-regulating interactive systems", "Static systems incapable of responding to external stimuli"],
+    "correct": 3,
+    "year": 2023,
+    "solution": "Living organisms are dynamic, evolving, self-replicating, and capable of responding to external stimuli."
+  },
+  {
+    "q": "In binomial nomenclature, tautonyms (where genus and species names are identical e.g., *Naja naja*) are valid for:",
+    "options": ["Plants only", "Animals only", "Both plants and animals", "Microbes only"],
+    "correct": 1,
+    "year": 2019,
+    "solution": "Tautonyms are permitted under ICZN (animals) but strictly prohibited under ICBN (plants)."
+  },
+  {
+    "q": "All living organisms – present, past and future – are linked to one another by:",
+    "options": ["Sharing common genetic material to varying degrees", "Having identical physical size", "Absence of mutations", "Possessing identical DNA sequences"],
+    "correct": 0,
+    "year": 2022,
+    "solution": "All living organisms are linked to one another by sharing common genetic material (DNA/RNA), but to varying degrees."
+  },
+  {
+    "q": "Find the ODD one out among the following categories:",
+    "options": ["Division", "Class", "Diptera", "Order"],
+    "correct": 2,
+    "year": 2021,
+    "solution": "Division, Class, and Order are abstract taxonomic **categories** (ranks), whereas Diptera is a concrete **taxon** (order of housefly)."
+  },
+  {
+    "q": "Which step comes FIRST during the scientific study of an unknown organism?",
+    "options": ["Nomenclature", "Classification", "Characterization & Identification", "Phylogenetic analysis"],
+    "correct": 2,
+    "year": 2020,
+    "solution": "Before naming or classifying, characterization and identification of the specimen are carried out first."
+  },
+  {
+    "q": "The main objective of plant taxonomy is:",
+    "options": ["To study anatomical variations in plants", "To classify plants based on ecological adaptations", "To provide a correct name and systematic position to plants", "To develop high yielding crop varieties"],
+    "correct": 2,
+    "year": 2018,
+    "solution": "Taxonomy aims to identify, name (nomenclature), and classify organisms into a systematic hierarchical scheme."
+  }
+]
 
