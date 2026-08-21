@@ -203,5 +203,5 @@
     {"id": 198, "type": "mcq", "question": "Family of Mango is Anacardiaceae. Family ends generally with suffix '-aceae' in:", "options": ["Plants", "Animals", "Fungi", "Bacteria"], "correct_answer": 0, "explanation": "Plant families end with the suffix -aceae."},
     {"id": 199, "type": "mcq", "question": "Order of Wheat is Poales. Plant orders generally end with suffix:", "options": ["-ales", "-aceae", "-eae", "-phyta"], "correct_answer": 0, "explanation": "Plant orders usually end with -ales."},
     {"id": 200, "type": "mcq", "question": "The complete taxonomic position of Human is:", "options": ["Homo sapiens, Genus: Homo, Family: Hominidae, Order: Primata, Class: Mammalia, Phylum: Chordata", "Homo sapiens, Genus: Homo, Family: Felidae, Order: Carnivora, Class: Mammalia", "Homo sapiens, Genus: Sapiens, Family: Homo, Order: Primata", "Homo sapiens, Genus: Homo, Family: Muscidae, Order: Diptera"], "correct_answer": 0, "explanation": "Complete hierarchy for humans according to NCERT."}
-  
-},
+    ],
+
