@@ -1,0 +1,2814 @@
+{
+  "chapter": "The Living World",
+  "exam": "NEET UG",
+  "syllabus": "NEET UG 2026 Unit 1: Diversity in Living World",
+  "question_count": 200,
+  "questions": [
+    {
+      "id": 1,
+      "type": "MCQ",
+      "topic": "What is living?",
+      "question": "Which property is most directly associated with the ability of an organism to sense and respond to environmental changes?",
+      "options": [
+        "Metabolism",
+        "Consciousness",
+        "Growth",
+        "Reproduction"
+      ],
+      "answer": "B",
+      "solution": "Consciousness includes sensing and responding to environmental stimuli."
+    },
+    {
+      "id": 2,
+      "type": "MCQ",
+      "topic": "What is living?",
+      "question": "Which process is common to all living organisms and involves the sum total of chemical reactions occurring in the body?",
+      "options": [
+        "Growth",
+        "Metabolism",
+        "Reproduction",
+        "Classification"
+      ],
+      "answer": "B",
+      "solution": "Metabolism is the sum total of all chemical reactions in a living organism."
+    },
+    {
+      "id": 3,
+      "type": "MCQ",
+      "topic": "What is living?",
+      "question": "Which statement about growth is correct for living organisms?",
+      "options": [
+        "It is the only defining property of life",
+        "It always occurs only by external addition of material",
+        "It generally involves an increase in mass and/or cell number",
+        "It is absent in multicellular organisms"
+      ],
+      "answer": "C",
+      "solution": "Living organisms generally grow by increase in mass and cell number."
+    },
+    {
+      "id": 4,
+      "type": "MCQ",
+      "topic": "What is living?",
+      "question": "Why is growth not considered an all-sufficient defining property of living organisms?",
+      "options": [
+        "Living organisms never grow",
+        "Non-living objects can also increase in size by external accumulation",
+        "Growth occurs only in plants",
+        "Growth is unrelated to cells"
+      ],
+      "answer": "B",
+      "solution": "Non-living objects can increase in size through accumulation of material, so growth alone does not define life."
+    },
+    {
+      "id": 5,
+      "type": "MCQ",
+      "topic": "What is living?",
+      "question": "Which example best illustrates why reproduction is not an all-inclusive defining feature of living organisms?",
+      "options": [
+        "A bacterium metabolises",
+        "A mule is sterile",
+        "A plant has cells",
+        "An animal grows"
+      ],
+      "answer": "B",
+      "solution": "Sterile organisms such as mules are living despite being unable to reproduce."
+    },
+    {
+      "id": 6,
+      "type": "MCQ",
+      "topic": "What is living?",
+      "question": "Which feature is present in both plants and animals and reflects the chemical activity necessary for life?",
+      "options": [
+        "Metabolism",
+        "Taxonomy",
+        "Binomial nomenclature",
+        "Herbarium"
+      ],
+      "answer": "A",
+      "solution": "Metabolism is a universal feature of living systems."
+    },
+    {
+      "id": 7,
+      "type": "MCQ",
+      "topic": "What is living?",
+      "question": "The ability of living organisms to perceive their surroundings is included under:",
+      "options": [
+        "Growth",
+        "Consciousness",
+        "Biodiversity",
+        "Systematics"
+      ],
+      "answer": "B",
+      "solution": "Consciousness refers to awareness/sensitivity to environmental stimuli."
+    },
+    {
+      "id": 8,
+      "type": "MCQ",
+      "topic": "What is living?",
+      "question": "Which statement about reproduction is most accurate?",
+      "options": [
+        "Every individual organism must reproduce",
+        "Reproduction is essential for survival of every individual",
+        "Reproduction is a characteristic of living organisms but has exceptions at individual level",
+        "Only plants reproduce"
+      ],
+      "answer": "C",
+      "solution": "Reproduction is a characteristic of living organisms, but sterile individuals are exceptions."
+    },
+    {
+      "id": 9,
+      "type": "MCQ",
+      "topic": "What is living?",
+      "question": "Which combination contains only characteristics used to describe living organisms?",
+      "options": [
+        "Metabolism, consciousness, reproduction",
+        "Taxonomy, nomenclature, hierarchy",
+        "Genus, species, family",
+        "Herbarium, museum, key"
+      ],
+      "answer": "A",
+      "solution": "Metabolism, consciousness and reproduction are biological characteristics."
+    },
+    {
+      "id": 10,
+      "type": "MCQ",
+      "topic": "What is living?",
+      "question": "Which of the following is NOT a biological process?",
+      "options": [
+        "Metabolism",
+        "Growth",
+        "Consciousness",
+        "Binomial nomenclature"
+      ],
+      "answer": "D",
+      "solution": "Binomial nomenclature is a system of naming organisms, not a life process."
+    },
+    {
+      "id": 11,
+      "type": "MCQ",
+      "topic": "Biodiversity",
+      "question": "Biodiversity refers most broadly to:",
+      "options": [
+        "Only the number of animal species",
+        "The variety of living organisms at different levels",
+        "Only genetic mutations",
+        "Only plant diversity"
+      ],
+      "answer": "B",
+      "solution": "Biodiversity denotes the variety of living organisms, including diversity among species and other levels."
+    },
+    {
+      "id": 12,
+      "type": "MCQ",
+      "topic": "Need for classification",
+      "question": "Why is classification necessary in biology?",
+      "options": [
+        "To increase the number of species",
+        "To make the study of diverse organisms systematic and easier",
+        "To eliminate biodiversity",
+        "To replace nomenclature"
+      ],
+      "answer": "B",
+      "solution": "Classification organizes the enormous diversity of organisms into manageable groups."
+    },
+    {
+      "id": 13,
+      "type": "MCQ",
+      "topic": "Taxonomy & Systematics",
+      "question": "Taxonomy is primarily concerned with:",
+      "options": [
+        "Only metabolism",
+        "Identification, nomenclature and classification of organisms",
+        "Only evolution",
+        "Only cell division"
+      ],
+      "answer": "B",
+      "solution": "Taxonomy deals with identification, nomenclature and classification."
+    },
+    {
+      "id": 14,
+      "type": "MCQ",
+      "topic": "Taxonomy & Systematics",
+      "question": "Systematics differs from basic taxonomy because it also emphasizes:",
+      "options": [
+        "Only common names",
+        "Evolutionary relationships among organisms",
+        "Only habitat",
+        "Only body size"
+      ],
+      "answer": "B",
+      "solution": "Systematics considers diversity as well as relationships among organisms."
+    },
+    {
+      "id": 15,
+      "type": "MCQ",
+      "topic": "Species",
+      "question": "The basic unit of classification is:",
+      "options": [
+        "Genus",
+        "Species",
+        "Family",
+        "Kingdom"
+      ],
+      "answer": "B",
+      "solution": "Species is the basic unit of classification."
+    },
+    {
+      "id": 16,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "A group of closely related species is generally placed in a:",
+      "options": [
+        "Genus",
+        "Family",
+        "Order",
+        "Class"
+      ],
+      "answer": "A",
+      "solution": "A genus contains closely related species.",
+      "pyq_year": 2023
+    },
+    {
+      "id": 17,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "A group of related genera forms a:",
+      "options": [
+        "Species",
+        "Family",
+        "Class",
+        "Kingdom"
+      ],
+      "answer": "B",
+      "solution": "Family is a category containing related genera.",
+      "pyq_year": 2019
+    },
+    {
+      "id": 18,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "A group of related families forms an:",
+      "options": [
+        "Order",
+        "Genus",
+        "Species",
+        "Phylum"
+      ],
+      "answer": "A",
+      "solution": "An order is a higher category containing related families."
+    },
+    {
+      "id": 19,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "A group of related orders forms a:",
+      "options": [
+        "Class",
+        "Family",
+        "Genus",
+        "Species"
+      ],
+      "answer": "A",
+      "solution": "Class contains related orders."
+    },
+    {
+      "id": 20,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "A group of related classes forms a:",
+      "options": [
+        "Species",
+        "Phylum or Division",
+        "Family",
+        "Genus"
+      ],
+      "answer": "B",
+      "solution": "Related classes are grouped into a phylum in animals or division in plants."
+    },
+    {
+      "id": 21,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "The highest category among the standard hierarchy listed in NCERT is:",
+      "options": [
+        "Species",
+        "Genus",
+        "Kingdom",
+        "Family"
+      ],
+      "answer": "C",
+      "solution": "Kingdom is the highest category in the hierarchy described here."
+    },
+    {
+      "id": 22,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which sequence is in correct ascending order of taxonomic categories?",
+      "options": [
+        "Kingdom → Class → Order → Family → Genus → Species",
+        "Species → Genus → Family → Order → Class → Phylum/Division → Kingdom",
+        "Species → Family → Genus → Order → Class → Kingdom",
+        "Genus → Species → Family → Class → Order → Kingdom"
+      ],
+      "answer": "B",
+      "solution": "The hierarchy increases from species through genus, family, order, class, phylum/division and kingdom."
+    },
+    {
+      "id": 23,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which category contains the greatest number of organisms among these?",
+      "options": [
+        "Species",
+        "Genus",
+        "Family",
+        "Kingdom"
+      ],
+      "answer": "D",
+      "solution": "Each successive higher category contains more groups and therefore more organisms."
+    },
+    {
+      "id": 24,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "As one moves from species to kingdom, the number of common characteristics generally:",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains exactly constant",
+        "Becomes irrelevant"
+      ],
+      "answer": "B",
+      "solution": "Higher categories contain more diverse organisms and therefore share fewer common characteristics."
+    },
+    {
+      "id": 25,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "As one moves from species to kingdom, the number of organisms included generally:",
+      "options": [
+        "Decreases",
+        "Increases",
+        "Becomes zero",
+        "Remains fixed"
+      ],
+      "answer": "B",
+      "solution": "Higher categories encompass more groups and more organisms."
+    },
+    {
+      "id": 26,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which taxonomic category is narrower than family?",
+      "options": [
+        "Order",
+        "Genus",
+        "Class",
+        "Kingdom"
+      ],
+      "answer": "B",
+      "solution": "Genus is below family and contains related species."
+    },
+    {
+      "id": 27,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which taxonomic category is broader than order but narrower than phylum/division?",
+      "options": [
+        "Class",
+        "Family",
+        "Genus",
+        "Species"
+      ],
+      "answer": "A",
+      "solution": "Class is above order and below phylum/division."
+    },
+    {
+      "id": 28,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "Binomial nomenclature means:",
+      "options": [
+        "Two kingdoms are named",
+        "Each organism is given a two-word scientific name",
+        "Two species are merged",
+        "Two families are named together"
+      ],
+      "answer": "B",
+      "solution": "Binomial nomenclature gives each species a two-word scientific name."
+    },
+    {
+      "id": 29,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "The two components of a scientific name are:",
+      "options": [
+        "Family and order",
+        "Genus and specific epithet",
+        "Kingdom and species",
+        "Class and family"
+      ],
+      "answer": "B",
+      "solution": "A binomial consists of the generic name and specific epithet."
+    },
+    {
+      "id": 30,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "In a scientific name, the generic name is written:",
+      "options": [
+        "Second and with a lowercase initial",
+        "First and with a capital initial",
+        "Only in capital letters",
+        "Without italics"
+      ],
+      "answer": "B",
+      "solution": "The genus name is written first and begins with a capital letter."
+    },
+    {
+      "id": 31,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "In a scientific name, the specific epithet is generally written:",
+      "options": [
+        "First and capitalised",
+        "Second and beginning with a lowercase letter",
+        "First and underlined only",
+        "As the family name"
+      ],
+      "answer": "B",
+      "solution": "The specific epithet follows the genus and begins with a lowercase letter."
+    },
+    {
+      "id": 32,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "Scientific names are generally derived from:",
+      "options": [
+        "Only English",
+        "Latin or Latinised words",
+        "Only Sanskrit",
+        "Only Greek without Latinisation"
+      ],
+      "answer": "B",
+      "solution": "Biological names are generally Latin or Latinised."
+    },
+    {
+      "id": 33,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "When printed, scientific names are conventionally:",
+      "options": [
+        "Bold only",
+        "Italicised",
+        "Written entirely in capitals",
+        "Placed in quotation marks"
+      ],
+      "answer": "B",
+      "solution": "Printed scientific names are written in italics."
+    },
+    {
+      "id": 34,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "When handwritten, the two words of a scientific name should be:",
+      "options": [
+        "Written as one word",
+        "Underlined separately",
+        "Capitalised completely",
+        "Put in brackets"
+      ],
+      "answer": "B",
+      "solution": "Each word is separately underlined when handwritten.",
+      "pyq_year": 2023
+    },
+    {
+      "id": 35,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "Which scientist is associated with the binomial system of nomenclature?",
+      "options": [
+        "Carolus Linnaeus",
+        "Robert Hooke",
+        "Charles Darwin",
+        "R.H. Whittaker"
+      ],
+      "answer": "A",
+      "solution": "Carolus Linnaeus is associated with the binomial system of nomenclature.",
+      "pyq_year": 2023
+    },
+    {
+      "id": 36,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "Which is correctly formatted as a scientific name?",
+      "options": [
+        "mangifera Indica",
+        "Mangifera indica",
+        "MANGIFERA INDICA",
+        "Mangifera Indica"
+      ],
+      "answer": "B",
+      "solution": "The genus begins with a capital letter and the specific epithet with a lowercase letter.",
+      "pyq_year": 2023
+    },
+    {
+      "id": 37,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "In Mangifera indica, Mangifera represents the:",
+      "options": [
+        "Specific epithet",
+        "Genus",
+        "Family",
+        "Order"
+      ],
+      "answer": "B",
+      "solution": "Mangifera is the generic name."
+    },
+    {
+      "id": 38,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "In Mangifera indica, indica represents the:",
+      "options": [
+        "Genus",
+        "Family",
+        "Specific epithet",
+        "Order"
+      ],
+      "answer": "C",
+      "solution": "Indica is the specific epithet."
+    },
+    {
+      "id": 39,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "In Homo sapiens, Homo represents the:",
+      "options": [
+        "Specific epithet",
+        "Genus",
+        "Family",
+        "Species category only"
+      ],
+      "answer": "B",
+      "solution": "Homo is the generic name."
+    },
+    {
+      "id": 40,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "In Homo sapiens, sapiens represents the:",
+      "options": [
+        "Genus",
+        "Family",
+        "Specific epithet",
+        "Order"
+      ],
+      "answer": "C",
+      "solution": "Sapiens is the specific epithet."
+    },
+    {
+      "id": 41,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "The name author citation after a scientific name mainly indicates:",
+      "options": [
+        "The habitat",
+        "The scientist associated with describing/naming the taxon",
+        "The number of chromosomes",
+        "The common name"
+      ],
+      "answer": "B",
+      "solution": "Author citation indicates the person associated with the scientific description/name."
+    },
+    {
+      "id": 42,
+      "type": "MCQ",
+      "topic": "Species",
+      "question": "A species is best understood in taxonomy as:",
+      "options": [
+        "A group of unrelated organisms",
+        "A basic category containing organisms with fundamental similarities",
+        "A group of all organisms in a kingdom",
+        "A synonym for family"
+      ],
+      "answer": "B",
+      "solution": "Species is the basic taxonomic category and groups organisms with close similarities."
+    },
+    {
+      "id": 43,
+      "type": "MCQ",
+      "topic": "Species",
+      "question": "Which pair belongs to the same genus?",
+      "options": [
+        "Panthera leo and Panthera tigris",
+        "Homo sapiens and Mangifera indica",
+        "Solanum tuberosum and Homo sapiens",
+        "Mango and tiger"
+      ],
+      "answer": "A",
+      "solution": "Both Panthera leo and Panthera tigris share the genus Panthera."
+    },
+    {
+      "id": 44,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which pair represents organisms belonging to different genera but the same family?",
+      "options": [
+        "Panthera leo and Panthera tigris",
+        "Solanum tuberosum and Datura stramonium",
+        "Homo sapiens and Mangifera indica",
+        "Mangifera indica and Panthera leo"
+      ],
+      "answer": "B",
+      "solution": "Solanum and Datura are different genera placed in the family Solanaceae."
+    },
+    {
+      "id": 45,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which statement correctly compares genus and species?",
+      "options": [
+        "Genus is narrower than species",
+        "Species is a category below genus",
+        "Genus contains one specific epithet only",
+        "Species contains several kingdoms"
+      ],
+      "answer": "B",
+      "solution": "Species is the lower category; a genus may contain one or more closely related species."
+    },
+    {
+      "id": 46,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which category immediately precedes species when moving upward in the hierarchy?",
+      "options": [
+        "Family",
+        "Genus",
+        "Order",
+        "Class"
+      ],
+      "answer": "B",
+      "solution": "Genus is directly above species."
+    },
+    {
+      "id": 47,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which category immediately precedes genus when moving upward?",
+      "options": [
+        "Species",
+        "Family",
+        "Order",
+        "Kingdom"
+      ],
+      "answer": "B",
+      "solution": "Family is directly above genus."
+    },
+    {
+      "id": 48,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which category immediately precedes family when moving upward?",
+      "options": [
+        "Species",
+        "Genus",
+        "Order",
+        "Class"
+      ],
+      "answer": "C",
+      "solution": "Order is directly above family."
+    },
+    {
+      "id": 49,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which category immediately precedes order when moving upward?",
+      "options": [
+        "Family",
+        "Class",
+        "Genus",
+        "Species"
+      ],
+      "answer": "A",
+      "solution": "Family is directly below order."
+    },
+    {
+      "id": 50,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which category immediately precedes class when moving upward?",
+      "options": [
+        "Order",
+        "Family",
+        "Phylum",
+        "Genus"
+      ],
+      "answer": "A",
+      "solution": "Order is directly below class."
+    },
+    {
+      "id": 51,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which category immediately precedes phylum/division when moving upward?",
+      "options": [
+        "Class",
+        "Order",
+        "Kingdom",
+        "Family"
+      ],
+      "answer": "A",
+      "solution": "Class is directly below phylum/division."
+    },
+    {
+      "id": 52,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "If two organisms belong to the same family but different genera, they necessarily:",
+      "options": [
+        "Belong to different kingdoms",
+        "Share more taxonomic ancestry than organisms from different families",
+        "Are the same species",
+        "Have identical genomes"
+      ],
+      "answer": "B",
+      "solution": "Sharing a family indicates a closer taxonomic relationship than belonging to different families, but not the same species."
+    },
+    {
+      "id": 53,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "If two organisms belong to the same genus but different species, they:",
+      "options": [
+        "Must have no similarities",
+        "Are closely related species",
+        "Belong to different families necessarily",
+        "Must be identical"
+      ],
+      "answer": "B",
+      "solution": "A genus groups closely related species."
+    },
+    {
+      "id": 54,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which pair is correctly matched?",
+      "options": [
+        "Species—highest category",
+        "Family—group of related genera",
+        "Order—group of related species only",
+        "Genus—group of related kingdoms"
+      ],
+      "answer": "B",
+      "solution": "Family consists of related genera."
+    },
+    {
+      "id": 55,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which pair is incorrectly matched?",
+      "options": [
+        "Genus—related species",
+        "Family—related genera",
+        "Order—related families",
+        "Class—related species only"
+      ],
+      "answer": "D",
+      "solution": "Class contains related orders, not merely related species."
+    },
+    {
+      "id": 56,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "Which statement about scientific names is correct?",
+      "options": [
+        "They are intended to be universal",
+        "They are always written in local languages",
+        "They change with every common name",
+        "They consist only of the family name"
+      ],
+      "answer": "A",
+      "solution": "Scientific names provide a universal naming system."
+    },
+    {
+      "id": 57,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "A scientific name has two words. The first word identifies the:",
+      "options": [
+        "Kingdom",
+        "Genus",
+        "Family",
+        "Order"
+      ],
+      "answer": "B",
+      "solution": "The first word is the generic name."
+    },
+    {
+      "id": 58,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "A scientific name has two words. The second word is the:",
+      "options": [
+        "Genus",
+        "Specific epithet",
+        "Family",
+        "Kingdom"
+      ],
+      "answer": "B",
+      "solution": "The second word is the specific epithet."
+    },
+    {
+      "id": 59,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "Which change would violate standard formatting of Mangifera indica?",
+      "options": [
+        "Mangifera indica",
+        "MANGIFERA INDICA",
+        "Mangifera indica",
+        "Mangifera Indica"
+      ],
+      "answer": "B",
+      "solution": "Both words should not be written entirely in capitals; the specific epithet begins with lowercase."
+    },
+    {
+      "id": 60,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "Which is the correct handwritten convention for Homo sapiens?",
+      "options": [
+        "Underline both words together as one continuous line",
+        "Underline Homo and sapiens separately",
+        "Do not underline either word",
+        "Underline only sapiens"
+      ],
+      "answer": "B",
+      "solution": "When handwritten, each word is separately underlined."
+    },
+    {
+      "id": 61,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "Which is NOT a purpose of scientific nomenclature?",
+      "options": [
+        "Universal communication",
+        "Avoiding ambiguity of common names",
+        "Providing a standardized name",
+        "Describing the metabolism of an organism"
+      ],
+      "answer": "D",
+      "solution": "Nomenclature standardizes names; it does not describe metabolism."
+    },
+    {
+      "id": 62,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "Why are common names less suitable for universal scientific communication?",
+      "options": [
+        "They are always longer",
+        "They may vary among regions and languages",
+        "They are never used by humans",
+        "They contain two Latin words"
+      ],
+      "answer": "B",
+      "solution": "Common names can differ across regions and languages."
+    },
+    {
+      "id": 63,
+      "type": "MCQ",
+      "topic": "Taxonomy & Systematics",
+      "question": "Which of the following is a taxonomic activity?",
+      "options": [
+        "Naming an organism",
+        "Photosynthesis",
+        "Respiration",
+        "Muscle contraction"
+      ],
+      "answer": "A",
+      "solution": "Naming organisms is part of taxonomy."
+    },
+    {
+      "id": 64,
+      "type": "MCQ",
+      "topic": "Taxonomy & Systematics",
+      "question": "Which activity is most directly associated with systematics?",
+      "options": [
+        "Studying relationships among organisms",
+        "Measuring blood pressure",
+        "Counting RBCs",
+        "Studying only digestion"
+      ],
+      "answer": "A",
+      "solution": "Systematics includes the study of diversity and relationships among organisms."
+    },
+    {
+      "id": 65,
+      "type": "MCQ",
+      "topic": "Taxonomy & Systematics",
+      "question": "Which statement best captures the relationship between taxonomy and nomenclature?",
+      "options": [
+        "Nomenclature is the standardized naming component associated with taxonomy",
+        "They are both names of cell organelles",
+        "Taxonomy is only reproduction",
+        "Nomenclature replaces classification"
+      ],
+      "answer": "A",
+      "solution": "Nomenclature concerns standardized naming; taxonomy also includes identification and classification."
+    },
+    {
+      "id": 66,
+      "type": "MCQ",
+      "topic": "Biodiversity",
+      "question": "Which observation supports the statement that life is highly diverse?",
+      "options": [
+        "All organisms have identical forms",
+        "Organisms differ greatly in structure, function and appearance",
+        "All organisms occupy one habitat",
+        "All organisms have one common name"
+      ],
+      "answer": "B",
+      "solution": "The wide variation among organisms reflects biological diversity."
+    },
+    {
+      "id": 67,
+      "type": "MCQ",
+      "topic": "Need for classification",
+      "question": "Why is classification especially useful when biodiversity is high?",
+      "options": [
+        "It makes every organism identical",
+        "It organizes organisms into groups based on similarities and relationships",
+        "It removes species",
+        "It prevents reproduction"
+      ],
+      "answer": "B",
+      "solution": "Classification makes the study of huge biological diversity systematic."
+    },
+    {
+      "id": 68,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which sequence contains only taxonomic categories?",
+      "options": [
+        "Species, genus, family, order",
+        "Metabolism, genus, species, growth",
+        "Consciousness, family, class, reproduction",
+        "Biodiversity, genus, metabolism, order"
+      ],
+      "answer": "A",
+      "solution": "Species, genus, family and order are taxonomic categories."
+    },
+    {
+      "id": 69,
+      "type": "MCQ",
+      "topic": "What is living?",
+      "question": "Which is the correct pair of biological characteristic and example?",
+      "options": [
+        "Consciousness—response to a stimulus",
+        "Nomenclature—cellular respiration",
+        "Taxonomy—growth",
+        "Biodiversity—metabolism"
+      ],
+      "answer": "A",
+      "solution": "Response to stimuli is an expression of consciousness."
+    },
+    {
+      "id": 70,
+      "type": "MCQ",
+      "topic": "What is living?",
+      "question": "Which statement is correct regarding cellular organization and life?",
+      "options": [
+        "Living organisms are organized at the cellular level",
+        "Cells are found only in non-living matter",
+        "Cellular organization is a taxonomic category",
+        "Cells are unrelated to life"
+      ],
+      "answer": "A",
+      "solution": "Cellular organization is a fundamental feature of living systems."
+    },
+    {
+      "id": 71,
+      "type": "MCQ",
+      "topic": "What is living?",
+      "question": "Which process directly demonstrates chemical activity in living systems?",
+      "options": [
+        "Metabolism",
+        "Nomenclature",
+        "Classification",
+        "Binomial naming"
+      ],
+      "answer": "A",
+      "solution": "Metabolism consists of chemical reactions occurring in living systems."
+    },
+    {
+      "id": 72,
+      "type": "MCQ",
+      "topic": "What is living?",
+      "question": "An organism that cannot reproduce may still be considered living because:",
+      "options": [
+        "Reproduction is never found in life",
+        "Individual-level exceptions exist, while other defining features remain",
+        "It must be non-living",
+        "Only plants are living"
+      ],
+      "answer": "B",
+      "solution": "Sterile individuals can still show other defining characteristics of life."
+    },
+    {
+      "id": 73,
+      "type": "MCQ",
+      "topic": "What is living?",
+      "question": "Which is the best reason consciousness is considered a defining property?",
+      "options": [
+        "Living organisms can sense and respond to internal and external stimuli",
+        "It gives organisms scientific names",
+        "It creates taxonomic categories",
+        "It prevents metabolism"
+      ],
+      "answer": "A",
+      "solution": "Sensitivity and response to stimuli are characteristic of living organisms."
+    },
+    {
+      "id": 74,
+      "type": "MCQ",
+      "topic": "Integrated",
+      "question": "Which pair contains one life characteristic and one taxonomic concept?",
+      "options": [
+        "Metabolism and species",
+        "Consciousness and genus",
+        "Growth and family",
+        "All of these"
+      ],
+      "answer": "D",
+      "solution": "Metabolism, consciousness and growth are life characteristics; species, genus and family are taxonomic concepts."
+    },
+    {
+      "id": 75,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "A higher taxonomic category generally contains:",
+      "options": [
+        "Fewer organisms and more shared characters",
+        "More organisms and fewer shared characters",
+        "One species only",
+        "Only identical organisms"
+      ],
+      "answer": "B",
+      "solution": "Higher categories include more diverse organisms and therefore fewer shared characters."
+    },
+    {
+      "id": 76,
+      "type": "MCQ",
+      "topic": "Species",
+      "question": "Which statement about species is most appropriate for NEET-level taxonomy?",
+      "options": [
+        "Species is the basic unit of classification",
+        "Species is always the largest category",
+        "Species is above kingdom",
+        "Species is identical to family"
+      ],
+      "answer": "A",
+      "solution": "Species is the basic unit of classification."
+    },
+    {
+      "id": 77,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which pair shows the correct direction of increasing taxonomic rank?",
+      "options": [
+        "Species → genus → family",
+        "Family → species → genus",
+        "Kingdom → class → species",
+        "Genus → species → family"
+      ],
+      "answer": "A",
+      "solution": "The hierarchy rises from species to genus to family."
+    },
+    {
+      "id": 78,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which category is immediately higher than class?",
+      "options": [
+        "Phylum/Division",
+        "Order",
+        "Family",
+        "Genus"
+      ],
+      "answer": "A",
+      "solution": "Phylum/division is above class."
+    },
+    {
+      "id": 79,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which category is immediately lower than class?",
+      "options": [
+        "Phylum",
+        "Order",
+        "Family",
+        "Kingdom"
+      ],
+      "answer": "B",
+      "solution": "Order is below class."
+    },
+    {
+      "id": 80,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which statement about genus is correct?",
+      "options": [
+        "It is a category containing closely related species",
+        "It is always broader than kingdom",
+        "It is below species",
+        "It contains unrelated kingdoms"
+      ],
+      "answer": "A",
+      "solution": "Genus groups closely related species."
+    },
+    {
+      "id": 81,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which statement about family is correct?",
+      "options": [
+        "It contains related genera",
+        "It is below species",
+        "It is a synonym for genus",
+        "It contains only one organism"
+      ],
+      "answer": "A",
+      "solution": "Family contains related genera."
+    },
+    {
+      "id": 82,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which statement about order is correct?",
+      "options": [
+        "It contains related families",
+        "It contains only one species",
+        "It is below genus",
+        "It is the lowest category"
+      ],
+      "answer": "A",
+      "solution": "Order groups related families."
+    },
+    {
+      "id": 83,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which statement about class is correct?",
+      "options": [
+        "It contains related orders",
+        "It is below species",
+        "It contains only one genus",
+        "It is the same as family"
+      ],
+      "answer": "A",
+      "solution": "Class groups related orders."
+    },
+    {
+      "id": 84,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which statement about phylum/division is correct?",
+      "options": [
+        "It contains related classes",
+        "It is below species",
+        "It contains only one family",
+        "It is a scientific name"
+      ],
+      "answer": "A",
+      "solution": "Phylum/division groups related classes."
+    },
+    {
+      "id": 85,
+      "type": "MCQ",
+      "topic": "Taxonomic hierarchy",
+      "question": "Which statement about kingdom is correct in the standard hierarchy?",
+      "options": [
+        "It contains multiple lower taxonomic groups",
+        "It contains only one species",
+        "It is below genus",
+        "It is a specific epithet"
+      ],
+      "answer": "A",
+      "solution": "Kingdom is the broadest category among those listed and contains many lower groups."
+    },
+    {
+      "id": 86,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "Which option contains a correctly capitalized genus but incorrectly capitalized specific epithet?",
+      "options": [
+        "Mangifera indica",
+        "Mangifera Indica",
+        "mangifera indica",
+        "MANGIFERA indica"
+      ],
+      "answer": "B",
+      "solution": "The genus begins with a capital letter, while the specific epithet should begin with lowercase."
+    },
+    {
+      "id": 87,
+      "type": "MCQ",
+      "topic": "Binomial nomenclature",
+      "question": "Which option has the generic name in the wrong position?",
+      "options": [
+        "Homo sapiens",
+        "sapiens Homo",
+        "Mangifera indica",
+        "Panthera leo"
+      ],
+      "answer": "B",
+      "solution": "The generic name must be the first word."
+    },
+    {
+      "id": 88,
+      "type": "Statement-based",
+      "topic": "Consider the following statements about ",
+      "question": "Consider the following statements about living organisms:\nI. Growth occurs in living organisms.\nII. Growth alone is sufficient to distinguish living from non-living objects.\nIII. Metabolism is a defining feature of life.",
+      "options": [
+        "I and II only",
+        "I and III only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "B",
+      "solution": "Growth occurs in living organisms, but non-living objects can also grow by external accumulation. Metabolism is a defining feature."
+    },
+    {
+      "id": 89,
+      "type": "Statement-based",
+      "topic": "I. Reproduction is a characteristic of l",
+      "question": "I. Reproduction is a characteristic of living organisms.\nII. Sterile individuals are exceptions to reproduction at the individual level.\nIII. Therefore, every living individual must reproduce.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "B",
+      "solution": "Reproduction is characteristic of life, but sterile individuals show that every individual need not reproduce."
+    },
+    {
+      "id": 90,
+      "type": "Statement-based",
+      "topic": "I. Consciousness involves sensing the en",
+      "question": "I. Consciousness involves sensing the environment.\nII. Response to stimuli is associated with consciousness.\nIII. Consciousness is a taxonomic category.",
+      "options": [
+        "I and II only",
+        "II and III only",
+        "I and III only",
+        "I, II and III"
+      ],
+      "answer": "A",
+      "solution": "Consciousness is a life property, not a taxonomic category."
+    },
+    {
+      "id": 91,
+      "type": "Statement-based",
+      "topic": "I. Metabolism is a sum of chemical react",
+      "question": "I. Metabolism is a sum of chemical reactions.\nII. Metabolism is characteristic of living organisms.\nIII. Binomial nomenclature is a metabolic pathway.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "B",
+      "solution": "The first two are correct; binomial nomenclature is a naming system."
+    },
+    {
+      "id": 92,
+      "type": "Statement-based",
+      "topic": "I. Biodiversity describes variety among ",
+      "question": "I. Biodiversity describes variety among living organisms.\nII. Classification helps organize biodiversity.\nIII. Classification eliminates biodiversity.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "B",
+      "solution": "Classification organizes biodiversity; it does not eliminate it."
+    },
+    {
+      "id": 93,
+      "type": "Statement-based",
+      "topic": "I. Taxonomy includes identification.",
+      "question": "I. Taxonomy includes identification.\nII. Taxonomy includes nomenclature.\nIII. Taxonomy includes classification.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "D",
+      "solution": "Identification, nomenclature and classification are core components of taxonomy."
+    },
+    {
+      "id": 94,
+      "type": "Statement-based",
+      "topic": "I. Systematics considers relationships a",
+      "question": "I. Systematics considers relationships among organisms.\nII. Systematics is unrelated to diversity.\nIII. Systematics is broader than simple naming alone.",
+      "options": [
+        "I and III only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "A",
+      "solution": "Systematics considers diversity and relationships and is not merely naming."
+    },
+    {
+      "id": 95,
+      "type": "Statement-based",
+      "topic": "I. Species is the basic unit of classifi",
+      "question": "I. Species is the basic unit of classification.\nII. Genus is above species.\nIII. Family is above genus.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "D",
+      "solution": "All three statements correctly describe the hierarchy."
+    },
+    {
+      "id": 96,
+      "type": "Statement-based",
+      "topic": "I. A genus contains related species.",
+      "question": "I. A genus contains related species.\nII. A family contains related genera.\nIII. An order contains related families.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "D",
+      "solution": "All three are correct."
+    },
+    {
+      "id": 97,
+      "type": "Statement-based",
+      "topic": "I. A class contains related orders.",
+      "question": "I. A class contains related orders.\nII. A phylum/division contains related classes.\nIII. A kingdom is below species.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "B",
+      "solution": "The first two are correct; kingdom is above species."
+    },
+    {
+      "id": 98,
+      "type": "Statement-based",
+      "topic": "I. Higher categories generally contain m",
+      "question": "I. Higher categories generally contain more organisms.\nII. Higher categories generally share fewer common characters.\nIII. Species is broader than kingdom.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "B",
+      "solution": "The first two are correct; species is the narrowest basic category."
+    },
+    {
+      "id": 99,
+      "type": "Statement-based",
+      "topic": "I. Scientific names are generally Latin ",
+      "question": "I. Scientific names are generally Latin or Latinised.\nII. The genus name begins with a capital letter.\nIII. The specific epithet begins with a capital letter.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "B",
+      "solution": "The specific epithet begins with lowercase, so III is false."
+    },
+    {
+      "id": 100,
+      "type": "Statement-based",
+      "topic": "I. Scientific names are italicised when ",
+      "question": "I. Scientific names are italicised when printed.\nII. The two words are separately underlined when handwritten.\nIII. Both words must begin with capital letters.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "B",
+      "solution": "Printed names are italicised and handwritten words are separately underlined; only the genus begins with a capital."
+    },
+    {
+      "id": 101,
+      "type": "Statement-based",
+      "topic": "I. Binomial nomenclature uses two words.",
+      "question": "I. Binomial nomenclature uses two words.\nII. The first word is the generic name.\nIII. The second word is the specific epithet.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "D",
+      "solution": "All are correct."
+    },
+    {
+      "id": 102,
+      "type": "Statement-based",
+      "topic": "I. Common names may vary between regions",
+      "question": "I. Common names may vary between regions.\nII. Scientific names promote universal communication.\nIII. Scientific names are unnecessary in taxonomy.",
+      "options": [
+        "I and II only",
+        "I only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "A",
+      "solution": "Common names can vary, while standardized scientific names aid communication."
+    },
+    {
+      "id": 103,
+      "type": "Statement-based",
+      "topic": "I. Mangifera is the genus in Mangifera i",
+      "question": "I. Mangifera is the genus in Mangifera indica.\nII. indica is the specific epithet.\nIII. Mangifera indica is a binomial name.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "D",
+      "solution": "All three are correct."
+    },
+    {
+      "id": 104,
+      "type": "Statement-based",
+      "topic": "I. Homo is the genus in Homo sapiens.",
+      "question": "I. Homo is the genus in Homo sapiens.\nII. sapiens is the specific epithet.\nIII. Homo sapiens follows binomial nomenclature.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "D",
+      "solution": "All three are correct."
+    },
+    {
+      "id": 105,
+      "type": "Statement-based",
+      "topic": "I. Genus is below family.",
+      "question": "I. Genus is below family.\nII. Order is above family.\nIII. Class is above order.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "D",
+      "solution": "All three correctly represent the hierarchy."
+    },
+    {
+      "id": 106,
+      "type": "Statement-based",
+      "topic": "I. Phylum/division is above class.",
+      "question": "I. Phylum/division is above class.\nII. Kingdom is above phylum/division.\nIII. Genus is above family.",
+      "options": [
+        "I and II only",
+        "I and III only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "A",
+      "solution": "Genus is below family, so III is false."
+    },
+    {
+      "id": 107,
+      "type": "Statement-based",
+      "topic": "I. Species → Genus → Family is an ascend",
+      "question": "I. Species → Genus → Family is an ascending sequence.\nII. Family → Order → Class is an ascending sequence.\nIII. Kingdom → Class is a descending sequence.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "D",
+      "solution": "All three descriptions are correct when ascending means moving to broader categories."
+    },
+    {
+      "id": 108,
+      "type": "Statement-based",
+      "topic": "I. Taxonomy and nomenclature are identic",
+      "question": "I. Taxonomy and nomenclature are identical terms.\nII. Nomenclature deals with standardized naming.\nIII. Taxonomy includes classification.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "C",
+      "solution": "Nomenclature is one component; taxonomy is broader."
+    },
+    {
+      "id": 109,
+      "type": "Statement-based",
+      "topic": "I. Classification makes the study of org",
+      "question": "I. Classification makes the study of organisms easier.\nII. Classification groups organisms using similarities and relationships.\nIII. Classification is unrelated to biodiversity.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "B",
+      "solution": "The first two are correct; classification is directly used to organize biodiversity."
+    },
+    {
+      "id": 110,
+      "type": "Statement-based",
+      "topic": "I. A sterile mule is living.",
+      "question": "I. A sterile mule is living.\nII. Its inability to reproduce makes it non-living.\nIII. Reproduction therefore has exceptions at individual level.",
+      "options": [
+        "I and III only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "A",
+      "solution": "A sterile mule is living, showing that individual reproduction is not an absolute criterion."
+    },
+    {
+      "id": 111,
+      "type": "Statement-based",
+      "topic": "I. Non-living objects can show increase ",
+      "question": "I. Non-living objects can show increase in size.\nII. Such increase may occur by external addition of material.\nIII. Therefore all growth-like increase proves life.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "B",
+      "solution": "External accumulation can increase size in non-living objects, so it does not prove life."
+    },
+    {
+      "id": 112,
+      "type": "Statement-based",
+      "topic": "I. Metabolism is absent from all living ",
+      "question": "I. Metabolism is absent from all living organisms.\nII. Metabolism involves chemical reactions.\nIII. Metabolism helps characterize living systems.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "C",
+      "solution": "I is false; II and III are correct."
+    },
+    {
+      "id": 113,
+      "type": "Statement-based",
+      "topic": "I. Consciousness is a life property.",
+      "question": "I. Consciousness is a life property.\nII. Plants can respond to stimuli.\nIII. Only animals can show responses to stimuli.",
+      "options": [
+        "I and II only",
+        "I only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "A",
+      "solution": "Plants also respond to stimuli; consciousness is not restricted to animals."
+    },
+    {
+      "id": 114,
+      "type": "Statement-based",
+      "topic": "I. A scientific name can be written in a",
+      "question": "I. A scientific name can be written in any local language as its standard form.\nII. Scientific names are generally Latin or Latinised.\nIII. Standardization reduces ambiguity.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "C",
+      "solution": "I is false; II and III are correct."
+    },
+    {
+      "id": 115,
+      "type": "Statement-based",
+      "topic": "I. The first word of a binomial is capit",
+      "question": "I. The first word of a binomial is capitalized.\nII. The second word is lowercase.\nIII. The first word is the specific epithet.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "B",
+      "solution": "The first word is the genus; the second is the specific epithet."
+    },
+    {
+      "id": 116,
+      "type": "Statement-based",
+      "topic": "I. A family is broader than a genus.",
+      "question": "I. A family is broader than a genus.\nII. A genus is broader than a species.\nIII. An order is narrower than a family.",
+      "options": [
+        "I and II only",
+        "I and III only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "A",
+      "solution": "I and II are correct; order is broader than family, not narrower."
+    },
+    {
+      "id": 117,
+      "type": "Statement-based",
+      "topic": "I. Class is broader than order.",
+      "question": "I. Class is broader than order.\nII. Phylum/division is broader than class.\nIII. Kingdom is broader than phylum/division.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "D",
+      "solution": "All three correctly describe increasing rank."
+    },
+    {
+      "id": 118,
+      "type": "Statement-based",
+      "topic": "I. Two species in the same genus are gen",
+      "question": "I. Two species in the same genus are generally closely related.\nII. Same genus means same species.\nIII. Same family can include different genera.",
+      "options": [
+        "I and III only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "A",
+      "solution": "Same genus does not mean same species; a family can contain multiple genera."
+    },
+    {
+      "id": 119,
+      "type": "Statement-based",
+      "topic": "I. Binomial nomenclature gives a two-wor",
+      "question": "I. Binomial nomenclature gives a two-word name.\nII. The genus name is written first.\nIII. The specific epithet alone is the complete scientific name.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "B",
+      "solution": "The scientific name consists of genus plus specific epithet."
+    },
+    {
+      "id": 120,
+      "type": "Statement-based",
+      "topic": "I. Taxonomic categories are hierarchical",
+      "question": "I. Taxonomic categories are hierarchical.\nII. Species is below genus.\nIII. Kingdom is below family.",
+      "options": [
+        "I and II only",
+        "I only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "A",
+      "solution": "Taxonomic categories are hierarchical and species lies below genus; kingdom is above family."
+    },
+    {
+      "id": 121,
+      "type": "Statement-based",
+      "topic": "I. Biodiversity is limited to plants.",
+      "question": "I. Biodiversity is limited to plants.\nII. Biodiversity includes variety of living organisms.\nIII. Classification is useful for studying biodiversity.",
+      "options": [
+        "I only",
+        "II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "C",
+      "solution": "Biodiversity is not limited to plants; II and III are correct."
+    },
+    {
+      "id": 122,
+      "type": "Statement-based",
+      "topic": "I. Systematics considers relationships.",
+      "question": "I. Systematics considers relationships.\nII. Classification is a component of taxonomic study.\nIII. Nomenclature is the study of metabolism.",
+      "options": [
+        "I and II only",
+        "I only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "A",
+      "solution": "I and II are correct; nomenclature concerns naming, not metabolism."
+    },
+    {
+      "id": 123,
+      "type": "Statement-based",
+      "topic": "I. Species is a taxonomic category.",
+      "question": "I. Species is a taxonomic category.\nII. Genus is a taxonomic category.\nIII. Metabolism is a taxonomic category.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "B",
+      "solution": "Species and genus are taxonomic categories; metabolism is a life process."
+    },
+    {
+      "id": 124,
+      "type": "Statement-based",
+      "topic": "I. Common names can be ambiguous.",
+      "question": "I. Common names can be ambiguous.\nII. Scientific names are standardized.\nIII. Scientific names help avoid confusion caused by local names.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "D",
+      "solution": "All three are correct."
+    },
+    {
+      "id": 125,
+      "type": "Statement-based",
+      "topic": "I. Scientific names are generally univer",
+      "question": "I. Scientific names are generally universal.\nII. A scientific name is composed of genus and specific epithet.\nIII. The family name is always the second word.",
+      "options": [
+        "I and II only",
+        "I only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "A",
+      "solution": "The family name is not the second word of a binomial."
+    },
+    {
+      "id": 126,
+      "type": "Statement-based",
+      "topic": "I. Higher taxa have fewer shared charact",
+      "question": "I. Higher taxa have fewer shared characters than lower taxa.\nII. Species generally has more common characters than kingdom.\nIII. Kingdom is more specific than species.",
+      "options": [
+        "I and II only",
+        "I only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "A",
+      "solution": "Higher categories are broader and share fewer common characters; kingdom is not more specific."
+    },
+    {
+      "id": 127,
+      "type": "Statement-based",
+      "topic": "I. Taxonomy can identify an organism.",
+      "question": "Match Column I with Column II:\nColumn I: A. Species; B. Genus; C. Family; D. Order.\nColumn II: a. Basic unit of classification; b. Group of related species; c. Group of related genera; d. Group of related families.\nSelect the correct matching.",
+      "options": [
+        "I only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "answer": "D",
+      "solution": "All are components or functions of taxonomic study."
+    },
+    {
+      "id": 128,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Match Column I with Column II:\nColumn I: A. Family; B. Order; C. Class; D. Phylum/Division.\nColumn II: a. Genus; b. Family; c. Order; d. Class.\nSelect the correct matching.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Metabolism is a defining property because it comprises the chemical reactions that sustain life."
+    },
+    {
+      "id": 129,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Growth alone cannot be used as an all-sufficient criterion for life.\nReason: Non-living objects can increase in size by external accumulation of material.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Both statements are true and the reason directly explains why growth alone is insufficient."
+    },
+    {
+      "id": 130,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Reproduction is not an all-inclusive defining property of living organisms.\nReason: Some living individuals, such as sterile organisms, cannot reproduce.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Both are true and the reason explains the exception."
+    },
+    {
+      "id": 131,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Consciousness is a characteristic of living organisms.\nReason: Living organisms can sense and respond to environmental stimuli.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "The reason describes the basis of consciousness as used in biology."
+    },
+    {
+      "id": 132,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Classification is necessary for studying biodiversity.\nReason: Classification organizes diverse organisms into systematic groups.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Both are true and the reason explains the usefulness of classification."
+    },
+    {
+      "id": 133,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Species is the basic unit of classification.\nReason: Genus is a category above species.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "B",
+      "solution": "Both are true, but the reason does not explain why species is the basic unit."
+    },
+    {
+      "id": 134,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: A family is broader than a genus.\nReason: A family contains related genera.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "The reason directly explains why family is broader than genus."
+    },
+    {
+      "id": 135,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: An order is broader than a family.\nReason: An order contains related families.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "The reason directly explains the hierarchy."
+    },
+    {
+      "id": 136,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: A class is broader than an order.\nReason: A class contains related orders.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Both are true and the reason explains the assertion."
+    },
+    {
+      "id": 137,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Phylum/division is broader than class.\nReason: Phylum/division contains related classes.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Both are true and the reason explains the assertion."
+    },
+    {
+      "id": 138,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Kingdom is broader than phylum/division.\nReason: Kingdom contains multiple lower taxonomic groups.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Both are true and the reason explains the broader rank."
+    },
+    {
+      "id": 139,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Higher taxonomic categories usually share fewer common characters.\nReason: Higher categories include more diverse organisms.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Greater diversity within higher taxa reduces the number of shared characters."
+    },
+    {
+      "id": 140,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Genus is narrower than family.\nReason: Genus contains closely related species, while family contains related genera.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "The reason correctly explains the relative breadth."
+    },
+    {
+      "id": 141,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Two organisms belonging to the same genus must be identical.\nReason: A genus can contain multiple closely related species.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "D",
+      "solution": "The assertion is false; the reason is true."
+    },
+    {
+      "id": 142,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Binomial nomenclature provides a standardized scientific name.\nReason: A species is named using two components: genus and specific epithet.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Both are true and the two-part structure explains binomial nomenclature."
+    },
+    {
+      "id": 143,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: The genus name begins with a capital letter.\nReason: The specific epithet is written first in a binomial.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "C",
+      "solution": "The assertion is true, but the reason is false because the genus is written first."
+    },
+    {
+      "id": 144,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: The specific epithet is written with an initial lowercase letter.\nReason: It follows the generic name in a binomial.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "B",
+      "solution": "Both are true, but merely following the genus does not explain the capitalization rule."
+    },
+    {
+      "id": 145,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Printed scientific names are italicised.\nReason: Handwritten scientific names are separately underlined word by word.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "B",
+      "solution": "Both are true, but the handwriting convention does not explain the printing convention."
+    },
+    {
+      "id": 146,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Common names can create ambiguity in scientific communication.\nReason: The same organism may have different common names in different regions.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Regional variation in common names explains the need for standardized scientific names."
+    },
+    {
+      "id": 147,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Scientific names are generally Latin or Latinised.\nReason: Latinised names help provide a standardized form across languages.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Both are true and the reason supports the standardization role."
+    },
+    {
+      "id": 148,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Taxonomy is limited to naming organisms.\nReason: Taxonomy also includes identification and classification.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "D",
+      "solution": "The assertion is false; the reason is true."
+    },
+    {
+      "id": 149,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Systematics considers relationships among organisms.\nReason: Systematics is concerned only with spelling scientific names.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "C",
+      "solution": "The assertion is true; the reason is false."
+    },
+    {
+      "id": 150,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Species lies below genus in the taxonomic hierarchy.\nReason: Genus is a group of closely related species.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "The reason directly supports the position of species below genus."
+    },
+    {
+      "id": 151,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Family lies above genus.\nReason: Family consists of related genera.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Both are true and the reason explains the hierarchy."
+    },
+    {
+      "id": 152,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Order lies above family.\nReason: Order contains related families.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Both are true and the reason explains the hierarchy."
+    },
+    {
+      "id": 153,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Class lies above order.\nReason: Class contains related orders.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Both are true and the reason explains the hierarchy."
+    },
+    {
+      "id": 154,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Species is broader than kingdom.\nReason: Kingdom contains many lower taxonomic groups.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "D",
+      "solution": "The assertion is false; the reason is true."
+    },
+    {
+      "id": 155,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Growth is always sufficient evidence that an object is living.\nReason: Non-living matter can also show increase in size.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "D",
+      "solution": "The assertion is false; the reason is true."
+    },
+    {
+      "id": 156,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: A sterile individual can still be living.\nReason: Reproduction is not an absolute requirement for every individual organism.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Both statements are true and the reason explains the assertion."
+    },
+    {
+      "id": 157,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Plants do not show consciousness.\nReason: Plants can respond to environmental stimuli.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "D",
+      "solution": "The assertion is false; the reason is true."
+    },
+    {
+      "id": 158,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Metabolism is a taxonomic category.\nReason: Metabolism consists of chemical reactions.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "D",
+      "solution": "The assertion is false; the reason is true."
+    },
+    {
+      "id": 159,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Species and genus are taxonomic categories.\nReason: Metabolism is a life process rather than a taxonomic category.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "B",
+      "solution": "Both are true, but the reason does not explain why species and genus are categories."
+    },
+    {
+      "id": 160,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Classification can simplify the study of biodiversity.\nReason: It groups organisms based on similarities and relationships.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "The reason directly explains how classification simplifies study."
+    },
+    {
+      "id": 161,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Higher taxa generally contain more organisms than species.\nReason: Higher taxa include multiple lower-level groups.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Both are true and the reason explains the broader membership."
+    },
+    {
+      "id": 162,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: The second word of a binomial is the genus.\nReason: The first word is the generic name.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "D",
+      "solution": "The assertion is false; the reason is true."
+    },
+    {
+      "id": 163,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Mangifera indica follows binomial nomenclature.\nReason: Mangifera is the generic name and indica is the specific epithet.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Both are true and the reason explains the binomial structure."
+    },
+    {
+      "id": 164,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Homo sapiens is written with a capital initial for Homo and lowercase initial for sapiens.\nReason: The genus is capitalized while the specific epithet begins with lowercase.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "The reason directly explains the capitalization."
+    },
+    {
+      "id": 165,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: Scientific names reduce confusion caused by common names.\nReason: Scientific names are standardized rather than dependent on local language.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Both are true and the reason explains the advantage."
+    },
+    {
+      "id": 166,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: An order is narrower than a family.\nReason: An order contains related families.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "D",
+      "solution": "The assertion is false; the reason is true."
+    },
+    {
+      "id": 167,
+      "type": "Assertion-Reason",
+      "topic": "The Living World",
+      "question": "Assertion: A family can contain more than one genus.\nReason: Family is a higher category than genus.",
+      "options": [
+        "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+        "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+        "Assertion is true, but Reason is false",
+        "Assertion is false, but Reason is true"
+      ],
+      "answer": "A",
+      "solution": "Both are true and the reason supports the relationship."
+    },
+    {
+      "id": 168,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match Column I with Column II:\nA. Species\nB. Genus\nC. Family\nD. Order\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-c, 2-a, 3-d, 4-b",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-c, 3-a, 4-d",
+        "1-d, 2-b, 3-c, 4-a"
+      ],
+      "answer": "B",
+      "solution": "Species is the basic unit; genus groups species; family groups genera; order groups families."
+    },
+    {
+      "id": 169,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the category with its immediate lower category:\nA. Family\nB. Order\nC. Class\nD. Phylum/Division\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Genus, 2-Family, 3-Order, 4-Class",
+        "1-Species, 2-Genus, 3-Family, 4-Order",
+        "1-Order, 2-Class, 3-Phylum, 4-Kingdom",
+        "1-Genus, 2-Order, 3-Family, 4-Class"
+      ],
+      "answer": "A",
+      "solution": "Family is above genus, order above family, class above order, and phylum/division above class."
+    },
+    {
+      "id": 170,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the organism with its generic name:\nA. Homo sapiens\nB. Mangifera indica\nC. Panthera leo\nD. Solanum tuberosum\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Homo, 2-Mangifera, 3-Panthera, 4-Solanum",
+        "1-sapiens, 2-indica, 3-leo, 4-tuberosum",
+        "1-Homo, 2-indica, 3-leo, 4-Solanum",
+        "1-sapiens, 2-Mangifera, 3-Panthera, 4-tuberosum"
+      ],
+      "answer": "A",
+      "solution": "The first word in each binomial is the generic name."
+    },
+    {
+      "id": 171,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the organism with its specific epithet:\nA. Homo sapiens\nB. Mangifera indica\nC. Panthera leo\nD. Solanum tuberosum\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Homo, 2-Mangifera, 3-Panthera, 4-Solanum",
+        "1-sapiens, 2-indica, 3-leo, 4-tuberosum",
+        "1-sapiens, 2-Mangifera, 3-Panthera, 4-Solanum",
+        "1-Homo, 2-indica, 3-leo, 4-tuberosum"
+      ],
+      "answer": "B",
+      "solution": "The second word is the specific epithet."
+    },
+    {
+      "id": 172,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the process/concept with its description:\nA. Metabolism\nB. Consciousness\nC. Classification\nD. Nomenclature\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Chemical reactions, 2-response to stimuli, 3-systematic grouping, 4-standardized naming",
+        "1-Response to stimuli, 2-chemical reactions, 3-naming, 4-grouping",
+        "1-Grouping, 2-naming, 3-chemical reactions, 4-response",
+        "1-Naming, 2-grouping, 3-response, 4-chemical reactions"
+      ],
+      "answer": "A",
+      "solution": "Each concept is matched with its correct biological or taxonomic role."
+    },
+    {
+      "id": 173,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the category with its description:\nA. Species\nB. Genus\nC. Family\nD. Class\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Basic unit, 2-related species, 3-related genera, 4-related orders",
+        "1-Related orders, 2-basic unit, 3-related species, 4-related genera",
+        "1-Related genera, 2-related orders, 3-basic unit, 4-related species",
+        "1-Related species, 2-basic unit, 3-related orders, 4-related genera"
+      ],
+      "answer": "A",
+      "solution": "These are the standard descriptions of the hierarchy."
+    },
+    {
+      "id": 174,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the taxonomic rank with its relative breadth:\nA. Species\nB. Family\nC. Class\nD. Kingdom\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Narrowest, 2-broader than genus, 3-broader than order, 4-broadest among these",
+        "1-Broadest, 2-narrowest, 3-broader than kingdom, 4-below species",
+        "1-Narrowest, 2-broader than kingdom, 3-below genus, 4-broader than class",
+        "1-Broader than class, 2-narrowest, 3-below species, 4-below family"
+      ],
+      "answer": "A",
+      "solution": "Among these, species is narrowest and kingdom is broadest."
+    },
+    {
+      "id": 175,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the scientific name with the correct capitalization pattern:\nA. Homo sapiens\nB. Mangifera indica\nC. Panthera leo\nD. Solanum tuberosum\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Capital-lowercase, 2-Capital-lowercase, 3-Capital-lowercase, 4-Capital-lowercase",
+        "1-Lowercase-capital, 2-capital-capital, 3-lowercase-lowercase, 4-capital-lowercase",
+        "1-Capital-capital, 2-lowercase-lowercase, 3-capital-lowercase, 4-lowercase-capital",
+        "1-Lowercase-lowercase for all"
+      ],
+      "answer": "A",
+      "solution": "In each correct binomial, the genus begins with a capital and the specific epithet with lowercase."
+    },
+    {
+      "id": 176,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the hierarchy transition:\nA. Species → Genus\nB. Genus → Family\nC. Family → Order\nD. Order → Class\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Related species, 2-related genera, 3-related families, 4-related orders",
+        "1-Related genera, 2-related species, 3-related orders, 4-related families",
+        "1-Related families, 2-related orders, 3-related classes, 4-related species",
+        "1-Related orders, 2-related classes, 3-related genera, 4-related families"
+      ],
+      "answer": "A",
+      "solution": "Each transition represents grouping the lower category into the next higher one."
+    },
+    {
+      "id": 177,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match statement with the correct concept:\nA. Universal scientific naming\nB. Chemical activity\nC. Variety of organisms\nD. Sensing stimuli\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Nomenclature, 2-Metabolism, 3-Biodiversity, 4-Consciousness",
+        "1-Taxonomy, 2-Classification, 3-Species, 4-Genus",
+        "1-Metabolism, 2-Nomenclature, 3-Consciousness, 4-Biodiversity",
+        "1-Biodiversity, 2-Species, 3-Nomenclature, 4-Metabolism"
+      ],
+      "answer": "A",
+      "solution": "These concepts correspond directly to standardized naming, chemical reactions, variety of life and stimulus response."
+    },
+    {
+      "id": 178,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match category with number of hierarchical levels above it among the standard seven-category sequence:\nA. Species\nB. Genus\nC. Family\nD. Order\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-0, 2-1, 3-2, 4-3",
+        "1-1, 2-2, 3-3, 4-4",
+        "1-3, 2-2, 3-1, 4-0",
+        "1-7, 2-6, 3-5, 4-4"
+      ],
+      "answer": "A",
+      "solution": "Starting at species, genus, family and order have 0, 1, 2 and 3 higher categories respectively."
+    },
+    {
+      "id": 179,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match taxonomic rank with the group it contains:\nA. Genus\nB. Family\nC. Order\nD. Class\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Species, 2-Genus, 3-Family, 4-Order",
+        "1-Family, 2-Species, 3-Genus, 4-Class",
+        "1-Order, 2-Class, 3-Phylum, 4-Kingdom",
+        "1-Species, 2-Order, 3-Class, 4-Phylum"
+      ],
+      "answer": "A",
+      "solution": "Genus contains species; family contains genera; order contains families; class contains orders."
+    },
+    {
+      "id": 180,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the term with what it does NOT represent:\nA. Metabolism\nB. Species\nC. Nomenclature\nD. Consciousness\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Not a taxonomic category, 2-Not a chemical reaction, 3-Not a life process, 4-Not a naming system",
+        "1-Not a life process, 2-Not a taxonomic category, 3-Not a chemical process, 4-Not a naming system",
+        "1-Not a naming system, 2-Not a taxonomic category, 3-Not a life process, 4-Not a response",
+        "1-Not a biological concept, 2-Not a species, 3-Not a category, 4-Not a process"
+      ],
+      "answer": "B",
+      "solution": "Metabolism is a life process; species is a category; nomenclature is naming; consciousness is a life property."
+    },
+    {
+      "id": 181,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match each example with its taxonomic inference:\nA. Same genus, different species\nB. Same family, different genera\nC. Same species\nD. Different kingdoms\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Close relationship, 2-Less close than same genus, 3-Same basic category, 4-Very broad separation",
+        "1-Very broad, 2-Same species, 3-Different family, 4-Same genus",
+        "1-Same kingdom only, 2-Same species, 3-Different genus, 4-Same family",
+        "1-Different kingdom, 2-Same genus, 3-Different species, 4-Same species"
+      ],
+      "answer": "A",
+      "solution": "These are progressively broader/different taxonomic relationships."
+    },
+    {
+      "id": 182,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the nomenclature rule:\nA. Genus position\nB. Specific epithet position\nC. Printed form\nD. Handwritten form\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-First word, 2-second word, 3-italicised, 4-underlined separately",
+        "1-Second word, 2-first word, 3-underlined, 4-italicised",
+        "1-First word, 2-first word, 3-capitalized, 4-quoted",
+        "1-Last word, 2-middle word, 3-bold, 4-italicised"
+      ],
+      "answer": "A",
+      "solution": "These are the standard binomial nomenclature conventions."
+    },
+    {
+      "id": 183,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match taxonomic category with its immediate higher category:\nA. Species\nB. Genus\nC. Family\nD. Order\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Genus, 2-Family, 3-Order, 4-Class",
+        "1-Family, 2-Order, 3-Class, 4-Phylum",
+        "1-Kingdom, 2-Phylum, 3-Class, 4-Order",
+        "1-Genus, 2-Order, 3-Family, 4-Class"
+      ],
+      "answer": "A",
+      "solution": "The immediate higher categories are genus, family, order and class."
+    },
+    {
+      "id": 184,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the concept with an appropriate example:\nA. Reproduction exception\nB. Growth limitation\nC. Metabolism\nD. Consciousness\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Sterile mule, 2-external accumulation, 3-chemical reactions, 4-response to stimulus",
+        "1-External accumulation, 2-sterile mule, 3-response, 4-chemical reactions",
+        "1-Response, 2-metabolism, 3-sterility, 4-growth",
+        "1-Classification, 2-nomenclature, 3-species, 4-genus"
+      ],
+      "answer": "A",
+      "solution": "These examples illustrate exceptions and defining properties correctly."
+    },
+    {
+      "id": 185,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the phrase with the correct term:\nA. Basic unit of classification\nB. Group of related species\nC. Group of related genera\nD. Group of related families\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Species, 2-Genus, 3-Family, 4-Order",
+        "1-Genus, 2-Species, 3-Order, 4-Class",
+        "1-Family, 2-Genus, 3-Species, 4-Order",
+        "1-Species, 2-Family, 3-Genus, 4-Class"
+      ],
+      "answer": "A",
+      "solution": "Species, genus, family and order match the four descriptions respectively."
+    },
+    {
+      "id": 186,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the broadness relation:\nA. Genus vs species\nB. Family vs genus\nC. Order vs family\nD. Class vs order\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Broader, 2-Broader, 3-Broader, 4-Broader",
+        "1-Narrower, 2-Narrower, 3-Narrower, 4-Narrower",
+        "1-Equal, 2-Equal, 3-Equal, 4-Equal",
+        "1-Broader, 2-Narrower, 3-Equal, 4-Broader"
+      ],
+      "answer": "A",
+      "solution": "Each first category listed is immediately broader than the second."
+    },
+    {
+      "id": 187,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match scientific name component with its capitalization:\nA. Genus\nB. Specific epithet\nC. Complete binomial\nD. Family name\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Capital initial, 2-lowercase initial, 3-two words, 4-not the second word of the binomial",
+        "1-Lowercase, 2-capitalized, 3-one word, 4-second word",
+        "1-Capitalized, 2-capitalized, 3-three words, 4-second word",
+        "1-Lowercase, 2-lowercase, 3-one word, 4-first word"
+      ],
+      "answer": "A",
+      "solution": "The genus is capitalized; specific epithet is lowercase; the binomial has two words."
+    },
+    {
+      "id": 188,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the category with its place in ascending hierarchy:\nA. Species\nB. Genus\nC. Family\nD. Order\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-1st, 2-2nd, 3-3rd, 4-4th",
+        "1-4th, 2-3rd, 3-2nd, 4-1st",
+        "1-7th, 2-6th, 3-5th, 4-4th",
+        "1-2nd, 2-1st, 3-4th, 4-3rd"
+      ],
+      "answer": "A",
+      "solution": "From narrowest to broader categories: species, genus, family, order."
+    },
+    {
+      "id": 189,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the concept with its primary question:\nA. Taxonomy\nB. Nomenclature\nC. Classification\nD. Systematics\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-What organism/group is it and how is it organized? 2-What should it be called? 3-How should organisms be grouped? 4-What are their relationships?",
+        "1-Only metabolism, 2-only growth, 3-only reproduction, 4-only consciousness",
+        "1-Only naming, 2-only grouping, 3-only response, 4-only growth",
+        "1-Only habitat, 2-only size, 3-only colour, 4-only food"
+      ],
+      "answer": "A",
+      "solution": "These are simplified distinctions among taxonomy, nomenclature, classification and systematics."
+    },
+    {
+      "id": 190,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match each name with its first word:\nA. Homo sapiens\nB. Mangifera indica\nC. Panthera leo\nD. Solanum tuberosum\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Homo, 2-Mangifera, 3-Panthera, 4-Solanum",
+        "1-sapiens, 2-indica, 3-leo, 4-tuberosum",
+        "1-Homo, 2-indica, 3-leo, 4-Solanum",
+        "1-sapiens, 2-Mangifera, 3-Panthera, 4-tuberosum"
+      ],
+      "answer": "A",
+      "solution": "The first word is the genus in every binomial."
+    },
+    {
+      "id": 191,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match each name with its second word:\nA. Homo sapiens\nB. Mangifera indica\nC. Panthera leo\nD. Solanum tuberosum\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Homo, 2-Mangifera, 3-Panthera, 4-Solanum",
+        "1-sapiens, 2-indica, 3-leo, 4-tuberosum",
+        "1-Homo, 2-indica, 3-leo, 4-Solanum",
+        "1-sapiens, 2-Mangifera, 3-Panthera, 4-tuberosum"
+      ],
+      "answer": "B",
+      "solution": "The second word is the specific epithet."
+    },
+    {
+      "id": 192,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the life property with a suitable clue:\nA. Growth\nB. Reproduction\nC. Metabolism\nD. Consciousness\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Increase in mass/cell number, 2-production of offspring, 3-chemical reactions, 4-response to stimuli",
+        "1-Chemical reactions, 2-growth, 3-response, 4-offspring",
+        "1-Offspring, 2-response, 3-growth, 4-chemical reactions",
+        "1-Classification, 2-naming, 3-genus, 4-family"
+      ],
+      "answer": "A",
+      "solution": "Each clue matches the corresponding life property."
+    },
+    {
+      "id": 193,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the hierarchy with its standard sequence position:\nA. Family\nB. Order\nC. Class\nD. Phylum/Division\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-3rd, 2-4th, 3-5th, 4-6th",
+        "1-4th, 2-5th, 3-6th, 4-7th",
+        "1-2nd, 2-3rd, 3-4th, 4-5th",
+        "1-3rd, 2-4th, 3-5th, 4-6th"
+      ],
+      "answer": "A",
+      "solution": "In the seven-level sequence, family, order, class and phylum/division occupy the 3rd–6th positions."
+    },
+    {
+      "id": 194,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the statement with the best conclusion:\nA. Same genus\nB. Same family\nC. Same order\nD. Same kingdom\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-More closely related than merely same family, 2-contains related genera, 3-contains related families, 4-broadest among these",
+        "1-Broadest, 2-narrowest, 3-same species, 4-same genus",
+        "1-Different kingdoms, 2-same species, 3-same genus, 4-different family",
+        "1-Same species, 2-same genus, 3-same family, 4-same order"
+      ],
+      "answer": "A",
+      "solution": "The hierarchy becomes broader from genus to family to order to kingdom."
+    },
+    {
+      "id": 195,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the incorrect claim with correction:\nA. Genus is above family\nB. Specific epithet is first\nC. Kingdom is below species\nD. Growth alone defines life\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Genus is below family, 2-Specific epithet is second, 3-Kingdom is above species, 4-Growth alone is insufficient",
+        "1-All are correct",
+        "1-Genus equals family, 2-Epithet is first, 3-Kingdom is below species, 4-Growth defines life",
+        "1-Genus is kingdom, 2-Epithet is family, 3-Kingdom is species, 4-Growth is nomenclature"
+      ],
+      "answer": "A",
+      "solution": "Each listed claim is incorrect and the corresponding correction is accurate."
+    },
+    {
+      "id": 196,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the pair with whether it is a life property or taxonomic concept:\nA. Metabolism\nB. Species\nC. Consciousness\nD. Genus\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Life property, 2-Taxonomic category, 3-Life property, 4-Taxonomic category",
+        "1-Taxonomic, 2-life, 3-taxonomic, 4-life",
+        "1-Life, 2-life, 3-taxonomic, 4-taxonomic",
+        "1-Taxonomic, 2-taxonomic, 3-life, 4-life"
+      ],
+      "answer": "A",
+      "solution": "Metabolism and consciousness are life properties; species and genus are taxonomic categories."
+    },
+    {
+      "id": 197,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the name format with its status:\nA. Mangifera indica\nB. mangifera indica\nC. Mangifera Indica\nD. MANGIFERA INDICA\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Correct standard capitalization, 2-incorrect genus capitalization, 3-incorrect epithet capitalization, 4-incorrect all-capitals form",
+        "1-All correct, 2-correct, 3-correct, 4-correct",
+        "1-incorrect, 2-correct, 3-correct, 4-correct",
+        "1-Correct, 2-correct, 3-correct, 4-correct"
+      ],
+      "answer": "A",
+      "solution": "Only the first follows the standard capitalization pattern."
+    },
+    {
+      "id": 198,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match the broad category with what it contains:\nA. Kingdom\nB. Phylum/Division\nC. Class\nD. Order\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Phyla/divisions, 2-classes, 3-orders, 4-families",
+        "1-Classes, 2-orders, 3-families, 4-genera",
+        "1-Species, 2-genera, 3-families, 4-orders",
+        "1-Orders, 2-families, 3-genera, 4-species"
+      ],
+      "answer": "A",
+      "solution": "Each category contains multiple groups of the immediately lower category."
+    },
+    {
+      "id": 199,
+      "type": "Matching-type",
+      "topic": "The Living World",
+      "question": "Match concept with its principal scope:\nA. Biodiversity\nB. Classification\nC. Nomenclature\nD. Species\nSelect the option that gives the correct one-to-one matching of A-D with the descriptions/terms stated in the options.",
+      "options": [
+        "1-Variety of life, 2-systematic grouping, 3-standardized naming, 4-basic taxonomic unit",
+        "1-Naming, 2-variety, 3-basic unit, 4-grouping",
+        "1-Grouping, 2-basic unit, 3-variety, 4-naming",
+        "1-Basic unit, 2-naming, 3-grouping, 4-variety"
+      ],
+      "answer": "A",
+      "solution": "These are the correct scopes of the four concepts."
+    },
+    {
+      "id": 200,
+      "type": "Binomial nomenclature",
+      "topic": "The Living World",
+      "question": "A scientific name is written as a two-word combination. Which arrangement follows the standard rule?",
+      "options": [
+        "Generic name first with capital initial + specific epithet second with lowercase initial",
+        "Specific epithet first with capital initial + generic name second",
+        "Family name first + genus second",
+        "Genus and specific epithet both beginning with capitals"
+      ],
+      "answer": "A",
+      "solution": "Binomial nomenclature places the generic name first with a capital initial, followed by the lowercase specific epithet.",
+      "pyq_year": 2016
+    }
+  ]
+}
