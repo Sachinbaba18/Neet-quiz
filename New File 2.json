@@ -1,0 +1,2602 @@
+[
+    {
+        "id": 1,
+        "type": "MCQ",
+        "question": "Which of the following is against the rules of ICBN?",
+        "options": [
+            "Generic and specific names should be written starting with small letters.",
+            "Every species should have a generic name and a specific epithet.",
+            "Hand written scientific names should be underlined.",
+            "Scientific names are in Latin and should be italicized."
+        ],
+        "answer": "Generic and specific names should be written starting with small letters.",
+        "explanation": "According to ICBN, the generic name must start with a capital letter and the specific epithet with a small letter. (PYQ)"
+    },
+    {
+        "id": 2,
+        "type": "Matching",
+        "question": "Match the items given in Column I with those in Column II and select the correct option.\nColumn I:\nA. Family\nB. Order\nC. Class\nD. Phylum\nColumn II:\n1. Diptera\n2. Arthropoda\n3. Muscidae\n4. Insecta",
+        "options": [
+            "A-4, B-2, C-1, D-3",
+            "A-3, B-2, C-4, D-1",
+            "A-3, B-1, C-4, D-2",
+            "A-4, B-3, C-2, D-1"
+        ],
+        "answer": "A-3, B-1, C-4, D-2",
+        "explanation": "Housefly classification: Family - Muscidae, Order - Diptera, Class - Insecta, Phylum - Arthropoda. (PYQ)"
+    },
+    {
+        "id": 3,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): The word systematics is derived from the Latin word 'systema'.\nReason (R): Systematics means the systematic arrangement of organisms.",
+        "options": [
+            "Both A and R are incorrect.",
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is correct but R is incorrect.",
+            "Both A and R are correct but R is not the correct explanation of A."
+        ],
+        "answer": "Both A and R are correct and R is the correct explanation of A.",
+        "explanation": "Systematics is derived from the Latin word systema, which means the systematic arrangement of organisms. Linnaeus used Systema Naturae as the title of his publication."
+    },
+    {
+        "id": 4,
+        "type": "Statement",
+        "question": "Statement I: As we go higher from species to kingdom, the number of common characteristics goes on decreasing.\nStatement II: Lower the taxa, more are the characteristics that the members within the taxon share.",
+        "options": [
+            "Both Statement I and Statement II are incorrect.",
+            "Both Statement I and Statement II are correct.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Statement I is incorrect but Statement II is correct."
+        ],
+        "answer": "Both Statement I and Statement II are correct.",
+        "explanation": "NCERT clearly states that as we go higher from species to kingdom, common characteristics decrease. Hence, lower taxa share more characteristics."
+    },
+    {
+        "id": 5,
+        "type": "MCQ",
+        "question": "Select the correctly written scientific name of Mango which was first described by Carolus Linnaeus.",
+        "options": [
+            "Mangifera indica Car. Linn.",
+            "Mangifera indica Linn.",
+            "Mangifera indica",
+            "Mangifera Indica"
+        ],
+        "answer": "Mangifera indica Linn.",
+        "explanation": "The author's name appears after the specific epithet in an abbreviated form. Linn. stands for Linnaeus. (PYQ)"
+    },
+    {
+        "id": 6,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Species is a group of individual organisms with fundamental similarities.\nReason (R): One should be able to distinguish one species from the other closely related species based on the distinct morphological differences.",
+        "options": [
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "Both A and R are incorrect.",
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is correct but R is incorrect."
+        ],
+        "answer": "Both A and R are correct but R is not the correct explanation of A.",
+        "explanation": "Both statements are true as per NCERT, but morphological difference is a defining feature, not the fundamental reason why they are a species."
+    },
+    {
+        "id": 7,
+        "type": "MCQ",
+        "question": "The term 'taxon' is used for:",
+        "options": [
+            "The species epithet only",
+            "Any rank of taxonomic hierarchy",
+            "The ranks up to phylum",
+            "The ranks of species and genus"
+        ],
+        "answer": "Any rank of taxonomic hierarchy",
+        "explanation": "Taxon (plural: taxa) represents any unit or category of classification."
+    },
+    {
+        "id": 8,
+        "type": "Statement",
+        "question": "Statement I: Plant families like Convolvulaceae and Solanaceae are included in the order Polymoniales mainly based on the floral characters.\nStatement II: Order is a higher category that is the assemblage of families which exhibit a few similar characters.",
+        "options": [
+            "Both Statement I and Statement II are incorrect.",
+            "Both Statement I and Statement II are correct.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Statement I is incorrect but Statement II is correct."
+        ],
+        "answer": "Both Statement I and Statement II are correct.",
+        "explanation": "Orders are based on aggregates of characters. For plants, floral characters are heavily used."
+    },
+    {
+        "id": 9,
+        "type": "MCQ",
+        "question": "Identify the correct Genus for Man (Homo sapiens).",
+        "options": [
+            "Homo",
+            "Panthera",
+            "Musca",
+            "Felis"
+        ],
+        "answer": "Homo",
+        "explanation": "According to NCERT Table 1.1, the genus of Man is Homo."
+    },
+    {
+        "id": 10,
+        "type": "MCQ",
+        "question": "Identify the correct Family for Man (Homo sapiens).",
+        "options": [
+            "Hominidae",
+            "Muscidae",
+            "Solanaceae",
+            "Poaceae"
+        ],
+        "answer": "Hominidae",
+        "explanation": "According to NCERT Table 1.1, the family of Man is Hominidae."
+    },
+    {
+        "id": 11,
+        "type": "MCQ",
+        "question": "Identify the correct Order for Man (Homo sapiens).",
+        "options": [
+            "Polymoniales",
+            "Primata",
+            "Cetacea",
+            "Diptera"
+        ],
+        "answer": "Primata",
+        "explanation": "According to NCERT Table 1.1, the order of Man is Primata."
+    },
+    {
+        "id": 12,
+        "type": "MCQ",
+        "question": "Identify the correct Class for Man (Homo sapiens).",
+        "options": [
+            "Gymnospermae",
+            "Mammalia",
+            "Insecta",
+            "Amphibia"
+        ],
+        "answer": "Mammalia",
+        "explanation": "According to NCERT Table 1.1, the class of Man is Mammalia."
+    },
+    {
+        "id": 13,
+        "type": "MCQ",
+        "question": "Identify the correct Phylum/Division for Man (Homo sapiens).",
+        "options": [
+            "Mollusca",
+            "Bryophyta",
+            "Chordata",
+            "Pteridophyta"
+        ],
+        "answer": "Chordata",
+        "explanation": "According to NCERT Table 1.1, the phylum/division of Man is Chordata."
+    },
+    {
+        "id": 14,
+        "type": "MCQ",
+        "question": "Identify the correct Genus for Housefly (Musca domestica).",
+        "options": [
+            "Homo",
+            "Musca",
+            "Felis",
+            "Panthera"
+        ],
+        "answer": "Musca",
+        "explanation": "According to NCERT Table 1.1, the genus of Housefly is Musca."
+    },
+    {
+        "id": 15,
+        "type": "MCQ",
+        "question": "Identify the correct Family for Housefly (Musca domestica).",
+        "options": [
+            "Poaceae",
+            "Muscidae",
+            "Solanaceae",
+            "Liliaceae"
+        ],
+        "answer": "Muscidae",
+        "explanation": "According to NCERT Table 1.1, the family of Housefly is Muscidae."
+    },
+    {
+        "id": 16,
+        "type": "MCQ",
+        "question": "Identify the correct Order for Housefly (Musca domestica).",
+        "options": [
+            "Polymoniales",
+            "Diptera",
+            "Primata",
+            "Cetacea"
+        ],
+        "answer": "Diptera",
+        "explanation": "According to NCERT Table 1.1, the order of Housefly is Diptera."
+    },
+    {
+        "id": 17,
+        "type": "MCQ",
+        "question": "Identify the correct Class for Housefly (Musca domestica).",
+        "options": [
+            "Amphibia",
+            "Reptilia",
+            "Insecta",
+            "Gymnospermae"
+        ],
+        "answer": "Insecta",
+        "explanation": "According to NCERT Table 1.1, the class of Housefly is Insecta."
+    },
+    {
+        "id": 18,
+        "type": "MCQ",
+        "question": "Identify the correct Phylum/Division for Housefly (Musca domestica).",
+        "options": [
+            "Arthropoda",
+            "Pteridophyta",
+            "Mollusca",
+            "Chordata"
+        ],
+        "answer": "Arthropoda",
+        "explanation": "According to NCERT Table 1.1, the phylum/division of Housefly is Arthropoda."
+    },
+    {
+        "id": 19,
+        "type": "MCQ",
+        "question": "Identify the correct Genus for Mango (Mangifera indica).",
+        "options": [
+            "Homo",
+            "Felis",
+            "Musca",
+            "Mangifera"
+        ],
+        "answer": "Mangifera",
+        "explanation": "According to NCERT Table 1.1, the genus of Mango is Mangifera."
+    },
+    {
+        "id": 20,
+        "type": "MCQ",
+        "question": "Identify the correct Family for Mango (Mangifera indica).",
+        "options": [
+            "Anacardiaceae",
+            "Muscidae",
+            "Solanaceae",
+            "Poaceae"
+        ],
+        "answer": "Anacardiaceae",
+        "explanation": "According to NCERT Table 1.1, the family of Mango is Anacardiaceae."
+    },
+    {
+        "id": 21,
+        "type": "MCQ",
+        "question": "Identify the correct Order for Mango (Mangifera indica).",
+        "options": [
+            "Sapindales",
+            "Diptera",
+            "Primata",
+            "Polymoniales"
+        ],
+        "answer": "Sapindales",
+        "explanation": "According to NCERT Table 1.1, the order of Mango is Sapindales."
+    },
+    {
+        "id": 22,
+        "type": "MCQ",
+        "question": "Identify the correct Class for Mango (Mangifera indica).",
+        "options": [
+            "Dicotyledonae",
+            "Gymnospermae",
+            "Reptilia",
+            "Amphibia"
+        ],
+        "answer": "Dicotyledonae",
+        "explanation": "According to NCERT Table 1.1, the class of Mango is Dicotyledonae."
+    },
+    {
+        "id": 23,
+        "type": "MCQ",
+        "question": "Identify the correct Phylum/Division for Mango (Mangifera indica).",
+        "options": [
+            "Pteridophyta",
+            "Mollusca",
+            "Chordata",
+            "Angiospermae"
+        ],
+        "answer": "Angiospermae",
+        "explanation": "According to NCERT Table 1.1, the phylum/division of Mango is Angiospermae."
+    },
+    {
+        "id": 24,
+        "type": "MCQ",
+        "question": "Identify the correct Genus for Wheat (Triticum aestivum).",
+        "options": [
+            "Homo",
+            "Triticum",
+            "Musca",
+            "Felis"
+        ],
+        "answer": "Triticum",
+        "explanation": "According to NCERT Table 1.1, the genus of Wheat is Triticum."
+    },
+    {
+        "id": 25,
+        "type": "MCQ",
+        "question": "Identify the correct Family for Wheat (Triticum aestivum).",
+        "options": [
+            "Muscidae",
+            "Poaceae",
+            "Solanaceae",
+            "Liliaceae"
+        ],
+        "answer": "Poaceae",
+        "explanation": "According to NCERT Table 1.1, the family of Wheat is Poaceae."
+    },
+    {
+        "id": 26,
+        "type": "MCQ",
+        "question": "Identify the correct Order for Wheat (Triticum aestivum).",
+        "options": [
+            "Diptera",
+            "Primata",
+            "Polymoniales",
+            "Poales"
+        ],
+        "answer": "Poales",
+        "explanation": "According to NCERT Table 1.1, the order of Wheat is Poales."
+    },
+    {
+        "id": 27,
+        "type": "MCQ",
+        "question": "Identify the correct Class for Wheat (Triticum aestivum).",
+        "options": [
+            "Monocotyledonae",
+            "Gymnospermae",
+            "Reptilia",
+            "Amphibia"
+        ],
+        "answer": "Monocotyledonae",
+        "explanation": "According to NCERT Table 1.1, the class of Wheat is Monocotyledonae."
+    },
+    {
+        "id": 28,
+        "type": "MCQ",
+        "question": "Identify the correct Phylum/Division for Wheat (Triticum aestivum).",
+        "options": [
+            "Arthropoda",
+            "Mollusca",
+            "Angiospermae",
+            "Pteridophyta"
+        ],
+        "answer": "Angiospermae",
+        "explanation": "According to NCERT Table 1.1, the phylum/division of Wheat is Angiospermae."
+    },
+    {
+        "id": 29,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Mango?",
+        "options": [
+            "Genus: Mangifera",
+            "Order: Sapindales",
+            "Class: Dicotyledonae",
+            "Family: Poaceae"
+        ],
+        "answer": "Family: Poaceae",
+        "explanation": "The correct Family for Mango is Anacardiaceae, not Poaceae."
+    },
+    {
+        "id": 30,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Housefly?",
+        "options": [
+            "Family: Muscidae",
+            "Genus: Musca",
+            "Order: Diptera",
+            "Phylum/Division: Mollusca"
+        ],
+        "answer": "Phylum/Division: Mollusca",
+        "explanation": "The correct Phylum/Division for Housefly is Arthropoda, not Mollusca."
+    },
+    {
+        "id": 31,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Wheat?",
+        "options": [
+            "Phylum/Division: Mollusca",
+            "Family: Poaceae",
+            "Genus: Triticum",
+            "Order: Poales"
+        ],
+        "answer": "Phylum/Division: Mollusca",
+        "explanation": "The correct Phylum/Division for Wheat is Angiospermae, not Mollusca."
+    },
+    {
+        "id": 32,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Mango?",
+        "options": [
+            "Family: Anacardiaceae",
+            "Class: Dicotyledonae",
+            "Order: Primata",
+            "Genus: Mangifera"
+        ],
+        "answer": "Order: Primata",
+        "explanation": "The correct Order for Mango is Sapindales, not Primata."
+    },
+    {
+        "id": 33,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Mango?",
+        "options": [
+            "Class: Dicotyledonae",
+            "Order: Sapindales",
+            "Genus: Homo",
+            "Family: Anacardiaceae"
+        ],
+        "answer": "Genus: Homo",
+        "explanation": "The correct Genus for Mango is Mangifera, not Homo."
+    },
+    {
+        "id": 34,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Man?",
+        "options": [
+            "Genus: Homo",
+            "Family: Hominidae",
+            "Order: Primata",
+            "Phylum/Division: Mollusca"
+        ],
+        "answer": "Phylum/Division: Mollusca",
+        "explanation": "The correct Phylum/Division for Man is Chordata, not Mollusca."
+    },
+    {
+        "id": 35,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Mango?",
+        "options": [
+            "Class: Dicotyledonae",
+            "Order: Sapindales",
+            "Genus: Mangifera",
+            "Family: Poaceae"
+        ],
+        "answer": "Family: Poaceae",
+        "explanation": "The correct Family for Mango is Anacardiaceae, not Poaceae."
+    },
+    {
+        "id": 36,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Man?",
+        "options": [
+            "Class: Mammalia",
+            "Order: Primata",
+            "Genus: Felis",
+            "Family: Hominidae"
+        ],
+        "answer": "Genus: Felis",
+        "explanation": "The correct Genus for Man is Homo, not Felis."
+    },
+    {
+        "id": 37,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Wheat?",
+        "options": [
+            "Genus: Triticum",
+            "Order: Poales",
+            "Family: Poaceae",
+            "Phylum/Division: Mollusca"
+        ],
+        "answer": "Phylum/Division: Mollusca",
+        "explanation": "The correct Phylum/Division for Wheat is Angiospermae, not Mollusca."
+    },
+    {
+        "id": 38,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Mango?",
+        "options": [
+            "Phylum/Division: Mollusca",
+            "Genus: Mangifera",
+            "Order: Sapindales",
+            "Family: Anacardiaceae"
+        ],
+        "answer": "Phylum/Division: Mollusca",
+        "explanation": "The correct Phylum/Division for Mango is Angiospermae, not Mollusca."
+    },
+    {
+        "id": 39,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Housefly?",
+        "options": [
+            "Family: Muscidae",
+            "Order: Primata",
+            "Genus: Musca",
+            "Class: Insecta"
+        ],
+        "answer": "Order: Primata",
+        "explanation": "The correct Order for Housefly is Diptera, not Primata."
+    },
+    {
+        "id": 40,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Housefly?",
+        "options": [
+            "Family: Muscidae",
+            "Genus: Musca",
+            "Class: Gymnospermae",
+            "Order: Diptera"
+        ],
+        "answer": "Class: Gymnospermae",
+        "explanation": "The correct Class for Housefly is Insecta, not Gymnospermae."
+    },
+    {
+        "id": 41,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Housefly?",
+        "options": [
+            "Family: Muscidae",
+            "Genus: Musca",
+            "Class: Insecta",
+            "Order: Primata"
+        ],
+        "answer": "Order: Primata",
+        "explanation": "The correct Order for Housefly is Diptera, not Primata."
+    },
+    {
+        "id": 42,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Mango?",
+        "options": [
+            "Order: Sapindales",
+            "Family: Anacardiaceae",
+            "Genus: Homo",
+            "Class: Dicotyledonae"
+        ],
+        "answer": "Genus: Homo",
+        "explanation": "The correct Genus for Mango is Mangifera, not Homo."
+    },
+    {
+        "id": 43,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Housefly?",
+        "options": [
+            "Genus: Musca",
+            "Family: Muscidae",
+            "Order: Diptera",
+            "Phylum/Division: Mollusca"
+        ],
+        "answer": "Phylum/Division: Mollusca",
+        "explanation": "The correct Phylum/Division for Housefly is Arthropoda, not Mollusca."
+    },
+    {
+        "id": 44,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Mango?",
+        "options": [
+            "Order: Sapindales",
+            "Genus: Mangifera",
+            "Class: Dicotyledonae",
+            "Family: Muscidae"
+        ],
+        "answer": "Family: Muscidae",
+        "explanation": "The correct Family for Mango is Anacardiaceae, not Muscidae."
+    },
+    {
+        "id": 45,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Housefly?",
+        "options": [
+            "Phylum/Division: Mollusca",
+            "Genus: Musca",
+            "Family: Muscidae",
+            "Order: Diptera"
+        ],
+        "answer": "Phylum/Division: Mollusca",
+        "explanation": "The correct Phylum/Division for Housefly is Arthropoda, not Mollusca."
+    },
+    {
+        "id": 46,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Wheat?",
+        "options": [
+            "Phylum/Division: Mollusca",
+            "Genus: Triticum",
+            "Order: Poales",
+            "Family: Poaceae"
+        ],
+        "answer": "Phylum/Division: Mollusca",
+        "explanation": "The correct Phylum/Division for Wheat is Angiospermae, not Mollusca."
+    },
+    {
+        "id": 47,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Mango?",
+        "options": [
+            "Family: Anacardiaceae",
+            "Order: Sapindales",
+            "Class: Gymnospermae",
+            "Genus: Mangifera"
+        ],
+        "answer": "Class: Gymnospermae",
+        "explanation": "The correct Class for Mango is Dicotyledonae, not Gymnospermae."
+    },
+    {
+        "id": 48,
+        "type": "MCQ",
+        "question": "Which of the following taxonomic categories does NOT correctly match with Mango?",
+        "options": [
+            "Family: Anacardiaceae",
+            "Order: Sapindales",
+            "Genus: Mangifera",
+            "Phylum/Division: Mollusca"
+        ],
+        "answer": "Phylum/Division: Mollusca",
+        "explanation": "The correct Phylum/Division for Mango is Angiospermae, not Mollusca."
+    },
+    {
+        "id": 49,
+        "type": "Statement",
+        "question": "Statement I: The order of Man is Primata.\nStatement II: The genus of Wheat is Homo.",
+        "options": [
+            "Statement I is incorrect but Statement II is correct.",
+            "Both Statement I and Statement II are correct.",
+            "Both Statement I and Statement II are incorrect.",
+            "Statement I is correct but Statement II is incorrect."
+        ],
+        "answer": "Statement I is correct but Statement II is incorrect.",
+        "explanation": "Actual taxonomy -> Man Order: Primata. Wheat Genus: Triticum."
+    },
+    {
+        "id": 50,
+        "type": "Statement",
+        "question": "Statement I: The order of Wheat is Poales.\nStatement II: The class of Man is Gymnospermae.",
+        "options": [
+            "Statement I is incorrect but Statement II is correct.",
+            "Both Statement I and Statement II are correct.",
+            "Both Statement I and Statement II are incorrect.",
+            "Statement I is correct but Statement II is incorrect."
+        ],
+        "answer": "Statement I is correct but Statement II is incorrect.",
+        "explanation": "Actual taxonomy -> Wheat Order: Poales. Man Class: Mammalia."
+    },
+    {
+        "id": 51,
+        "type": "Statement",
+        "question": "Statement I: The genus of Wheat is Homo.\nStatement II: The order of Mango is Primata.",
+        "options": [
+            "Both Statement I and Statement II are incorrect.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Both Statement I and Statement II are correct.",
+            "Statement I is incorrect but Statement II is correct."
+        ],
+        "answer": "Both Statement I and Statement II are incorrect.",
+        "explanation": "Actual taxonomy -> Wheat Genus: Triticum. Mango Order: Sapindales."
+    },
+    {
+        "id": 52,
+        "type": "Statement",
+        "question": "Statement I: The family of Mango is Poaceae.\nStatement II: The genus of Housefly is Homo.",
+        "options": [
+            "Statement I is correct but Statement II is incorrect.",
+            "Statement I is incorrect but Statement II is correct.",
+            "Both Statement I and Statement II are incorrect.",
+            "Both Statement I and Statement II are correct."
+        ],
+        "answer": "Both Statement I and Statement II are incorrect.",
+        "explanation": "Actual taxonomy -> Mango Family: Anacardiaceae. Housefly Genus: Musca."
+    },
+    {
+        "id": 53,
+        "type": "Statement",
+        "question": "Statement I: The genus of Mango is Mangifera.\nStatement II: The phylum/division of Wheat is Angiospermae.",
+        "options": [
+            "Both Statement I and Statement II are incorrect.",
+            "Statement I is incorrect but Statement II is correct.",
+            "Both Statement I and Statement II are correct.",
+            "Statement I is correct but Statement II is incorrect."
+        ],
+        "answer": "Both Statement I and Statement II are correct.",
+        "explanation": "Actual taxonomy -> Mango Genus: Mangifera. Wheat Phylum/Division: Angiospermae."
+    },
+    {
+        "id": 54,
+        "type": "Statement",
+        "question": "Statement I: The order of Wheat is Poales.\nStatement II: The phylum/division of Housefly is Arthropoda.",
+        "options": [
+            "Statement I is incorrect but Statement II is correct.",
+            "Both Statement I and Statement II are correct.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Both Statement I and Statement II are incorrect."
+        ],
+        "answer": "Both Statement I and Statement II are correct.",
+        "explanation": "Actual taxonomy -> Wheat Order: Poales. Housefly Phylum/Division: Arthropoda."
+    },
+    {
+        "id": 55,
+        "type": "Statement",
+        "question": "Statement I: The order of Mango is Primata.\nStatement II: The phylum/division of Man is Chordata.",
+        "options": [
+            "Both Statement I and Statement II are correct.",
+            "Statement I is incorrect but Statement II is correct.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Both Statement I and Statement II are incorrect."
+        ],
+        "answer": "Statement I is incorrect but Statement II is correct.",
+        "explanation": "Actual taxonomy -> Mango Order: Sapindales. Man Phylum/Division: Chordata."
+    },
+    {
+        "id": 56,
+        "type": "Statement",
+        "question": "Statement I: The genus of Mango is Homo.\nStatement II: The order of Wheat is Poales.",
+        "options": [
+            "Both Statement I and Statement II are correct.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Statement I is incorrect but Statement II is correct.",
+            "Both Statement I and Statement II are incorrect."
+        ],
+        "answer": "Statement I is incorrect but Statement II is correct.",
+        "explanation": "Actual taxonomy -> Mango Genus: Mangifera. Wheat Order: Poales."
+    },
+    {
+        "id": 57,
+        "type": "Statement",
+        "question": "Statement I: The genus of Man is Felis.\nStatement II: The order of Wheat is Diptera.",
+        "options": [
+            "Both Statement I and Statement II are correct.",
+            "Statement I is incorrect but Statement II is correct.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Both Statement I and Statement II are incorrect."
+        ],
+        "answer": "Both Statement I and Statement II are incorrect.",
+        "explanation": "Actual taxonomy -> Man Genus: Homo. Wheat Order: Poales."
+    },
+    {
+        "id": 58,
+        "type": "Statement",
+        "question": "Statement I: The order of Mango is Sapindales.\nStatement II: The phylum/division of Wheat is Angiospermae.",
+        "options": [
+            "Both Statement I and Statement II are correct.",
+            "Statement I is incorrect but Statement II is correct.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Both Statement I and Statement II are incorrect."
+        ],
+        "answer": "Both Statement I and Statement II are correct.",
+        "explanation": "Actual taxonomy -> Mango Order: Sapindales. Wheat Phylum/Division: Angiospermae."
+    },
+    {
+        "id": 59,
+        "type": "Statement",
+        "question": "Statement I: The genus of Man is Homo.\nStatement II: The phylum/division of Mango is Angiospermae.",
+        "options": [
+            "Both Statement I and Statement II are incorrect.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Statement I is incorrect but Statement II is correct.",
+            "Both Statement I and Statement II are correct."
+        ],
+        "answer": "Both Statement I and Statement II are correct.",
+        "explanation": "Actual taxonomy -> Man Genus: Homo. Mango Phylum/Division: Angiospermae."
+    },
+    {
+        "id": 60,
+        "type": "Statement",
+        "question": "Statement I: The genus of Housefly is Musca.\nStatement II: The order of Mango is Primata.",
+        "options": [
+            "Both Statement I and Statement II are incorrect.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Both Statement I and Statement II are correct.",
+            "Statement I is incorrect but Statement II is correct."
+        ],
+        "answer": "Statement I is correct but Statement II is incorrect.",
+        "explanation": "Actual taxonomy -> Housefly Genus: Musca. Mango Order: Sapindales."
+    },
+    {
+        "id": 61,
+        "type": "Statement",
+        "question": "Statement I: The genus of Mango is Mangifera.\nStatement II: The family of Housefly is Muscidae.",
+        "options": [
+            "Both Statement I and Statement II are correct.",
+            "Both Statement I and Statement II are incorrect.",
+            "Statement I is incorrect but Statement II is correct.",
+            "Statement I is correct but Statement II is incorrect."
+        ],
+        "answer": "Both Statement I and Statement II are correct.",
+        "explanation": "Actual taxonomy -> Mango Genus: Mangifera. Housefly Family: Muscidae."
+    },
+    {
+        "id": 62,
+        "type": "Statement",
+        "question": "Statement I: The phylum/division of Man is Chordata.\nStatement II: The genus of Mango is Homo.",
+        "options": [
+            "Statement I is correct but Statement II is incorrect.",
+            "Both Statement I and Statement II are correct.",
+            "Both Statement I and Statement II are incorrect.",
+            "Statement I is incorrect but Statement II is correct."
+        ],
+        "answer": "Statement I is correct but Statement II is incorrect.",
+        "explanation": "Actual taxonomy -> Man Phylum/Division: Chordata. Mango Genus: Mangifera."
+    },
+    {
+        "id": 63,
+        "type": "Statement",
+        "question": "Statement I: The genus of Man is Homo.\nStatement II: The class of Wheat is Gymnospermae.",
+        "options": [
+            "Both Statement I and Statement II are correct.",
+            "Statement I is incorrect but Statement II is correct.",
+            "Both Statement I and Statement II are incorrect.",
+            "Statement I is correct but Statement II is incorrect."
+        ],
+        "answer": "Statement I is correct but Statement II is incorrect.",
+        "explanation": "Actual taxonomy -> Man Genus: Homo. Wheat Class: Monocotyledonae."
+    },
+    {
+        "id": 64,
+        "type": "Statement",
+        "question": "Statement I: The phylum/division of Wheat is Angiospermae.\nStatement II: The family of Man is Hominidae.",
+        "options": [
+            "Both Statement I and Statement II are correct.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Both Statement I and Statement II are incorrect.",
+            "Statement I is incorrect but Statement II is correct."
+        ],
+        "answer": "Both Statement I and Statement II are correct.",
+        "explanation": "Actual taxonomy -> Wheat Phylum/Division: Angiospermae. Man Family: Hominidae."
+    },
+    {
+        "id": 65,
+        "type": "Statement",
+        "question": "Statement I: The class of Wheat is Gymnospermae.\nStatement II: The phylum/division of Man is Chordata.",
+        "options": [
+            "Statement I is incorrect but Statement II is correct.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Both Statement I and Statement II are incorrect.",
+            "Both Statement I and Statement II are correct."
+        ],
+        "answer": "Statement I is incorrect but Statement II is correct.",
+        "explanation": "Actual taxonomy -> Wheat Class: Monocotyledonae. Man Phylum/Division: Chordata."
+    },
+    {
+        "id": 66,
+        "type": "Statement",
+        "question": "Statement I: The phylum/division of Man is Chordata.\nStatement II: The class of Mango is Gymnospermae.",
+        "options": [
+            "Both Statement I and Statement II are incorrect.",
+            "Both Statement I and Statement II are correct.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Statement I is incorrect but Statement II is correct."
+        ],
+        "answer": "Statement I is correct but Statement II is incorrect.",
+        "explanation": "Actual taxonomy -> Man Phylum/Division: Chordata. Mango Class: Dicotyledonae."
+    },
+    {
+        "id": 67,
+        "type": "Statement",
+        "question": "Statement I: The class of Housefly is Gymnospermae.\nStatement II: The genus of Mango is Homo.",
+        "options": [
+            "Statement I is incorrect but Statement II is correct.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Both Statement I and Statement II are incorrect.",
+            "Both Statement I and Statement II are correct."
+        ],
+        "answer": "Both Statement I and Statement II are incorrect.",
+        "explanation": "Actual taxonomy -> Housefly Class: Insecta. Mango Genus: Mangifera."
+    },
+    {
+        "id": 68,
+        "type": "Statement",
+        "question": "Statement I: The order of Wheat is Poales.\nStatement II: The phylum/division of Housefly is Arthropoda.",
+        "options": [
+            "Statement I is correct but Statement II is incorrect.",
+            "Statement I is incorrect but Statement II is correct.",
+            "Both Statement I and Statement II are correct.",
+            "Both Statement I and Statement II are incorrect."
+        ],
+        "answer": "Both Statement I and Statement II are correct.",
+        "explanation": "Actual taxonomy -> Wheat Order: Poales. Housefly Phylum/Division: Arthropoda."
+    },
+    {
+        "id": 69,
+        "type": "Statement",
+        "question": "Statement I: The family of Housefly is Muscidae.\nStatement II: The genus of Mango is Homo.",
+        "options": [
+            "Statement I is correct but Statement II is incorrect.",
+            "Statement I is incorrect but Statement II is correct.",
+            "Both Statement I and Statement II are correct.",
+            "Both Statement I and Statement II are incorrect."
+        ],
+        "answer": "Statement I is correct but Statement II is incorrect.",
+        "explanation": "Actual taxonomy -> Housefly Family: Muscidae. Mango Genus: Mangifera."
+    },
+    {
+        "id": 70,
+        "type": "Statement",
+        "question": "Statement I: The genus of Housefly is Musca.\nStatement II: The family of Wheat is Muscidae.",
+        "options": [
+            "Statement I is incorrect but Statement II is correct.",
+            "Both Statement I and Statement II are correct.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Both Statement I and Statement II are incorrect."
+        ],
+        "answer": "Statement I is correct but Statement II is incorrect.",
+        "explanation": "Actual taxonomy -> Housefly Genus: Musca. Wheat Family: Poaceae."
+    },
+    {
+        "id": 71,
+        "type": "Statement",
+        "question": "Statement I: The class of Housefly is Insecta.\nStatement II: The phylum/division of Mango is Angiospermae.",
+        "options": [
+            "Statement I is incorrect but Statement II is correct.",
+            "Both Statement I and Statement II are correct.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Both Statement I and Statement II are incorrect."
+        ],
+        "answer": "Both Statement I and Statement II are correct.",
+        "explanation": "Actual taxonomy -> Housefly Class: Insecta. Mango Phylum/Division: Angiospermae."
+    },
+    {
+        "id": 72,
+        "type": "Statement",
+        "question": "Statement I: The order of Wheat is Poales.\nStatement II: The phylum/division of Mango is Mollusca.",
+        "options": [
+            "Statement I is correct but Statement II is incorrect.",
+            "Both Statement I and Statement II are correct.",
+            "Statement I is incorrect but Statement II is correct.",
+            "Both Statement I and Statement II are incorrect."
+        ],
+        "answer": "Statement I is correct but Statement II is incorrect.",
+        "explanation": "Actual taxonomy -> Wheat Order: Poales. Mango Phylum/Division: Angiospermae."
+    },
+    {
+        "id": 73,
+        "type": "Statement",
+        "question": "Statement I: The genus of Housefly is Homo.\nStatement II: The phylum/division of Man is Chordata.",
+        "options": [
+            "Both Statement I and Statement II are correct.",
+            "Both Statement I and Statement II are incorrect.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Statement I is incorrect but Statement II is correct."
+        ],
+        "answer": "Statement I is incorrect but Statement II is correct.",
+        "explanation": "Actual taxonomy -> Housefly Genus: Musca. Man Phylum/Division: Chordata."
+    },
+    {
+        "id": 74,
+        "type": "Statement",
+        "question": "Statement I: The class of Mango is Dicotyledonae.\nStatement II: The order of Housefly is Diptera.",
+        "options": [
+            "Statement I is incorrect but Statement II is correct.",
+            "Both Statement I and Statement II are incorrect.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Both Statement I and Statement II are correct."
+        ],
+        "answer": "Both Statement I and Statement II are correct.",
+        "explanation": "Actual taxonomy -> Mango Class: Dicotyledonae. Housefly Order: Diptera."
+    },
+    {
+        "id": 75,
+        "type": "Statement",
+        "question": "Statement I: The family of Man is Hominidae.\nStatement II: The class of Wheat is Gymnospermae.",
+        "options": [
+            "Statement I is correct but Statement II is incorrect.",
+            "Statement I is incorrect but Statement II is correct.",
+            "Both Statement I and Statement II are incorrect.",
+            "Both Statement I and Statement II are correct."
+        ],
+        "answer": "Statement I is correct but Statement II is incorrect.",
+        "explanation": "Actual taxonomy -> Man Family: Hominidae. Wheat Class: Monocotyledonae."
+    },
+    {
+        "id": 76,
+        "type": "Statement",
+        "question": "Statement I: The family of Wheat is Poaceae.\nStatement II: The phylum/division of Mango is Mollusca.",
+        "options": [
+            "Statement I is correct but Statement II is incorrect.",
+            "Both Statement I and Statement II are correct.",
+            "Both Statement I and Statement II are incorrect.",
+            "Statement I is incorrect but Statement II is correct."
+        ],
+        "answer": "Statement I is correct but Statement II is incorrect.",
+        "explanation": "Actual taxonomy -> Wheat Family: Poaceae. Mango Phylum/Division: Angiospermae."
+    },
+    {
+        "id": 77,
+        "type": "Statement",
+        "question": "Statement I: The family of Mango is Muscidae.\nStatement II: The class of Man is Gymnospermae.",
+        "options": [
+            "Both Statement I and Statement II are correct.",
+            "Both Statement I and Statement II are incorrect.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Statement I is incorrect but Statement II is correct."
+        ],
+        "answer": "Both Statement I and Statement II are incorrect.",
+        "explanation": "Actual taxonomy -> Mango Family: Anacardiaceae. Man Class: Mammalia."
+    },
+    {
+        "id": 78,
+        "type": "Statement",
+        "question": "Statement I: The class of Mango is Dicotyledonae.\nStatement II: The family of Man is Hominidae.",
+        "options": [
+            "Statement I is incorrect but Statement II is correct.",
+            "Both Statement I and Statement II are correct.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Both Statement I and Statement II are incorrect."
+        ],
+        "answer": "Both Statement I and Statement II are correct.",
+        "explanation": "Actual taxonomy -> Mango Class: Dicotyledonae. Man Family: Hominidae."
+    },
+    {
+        "id": 79,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Kingdom is a higher taxonomic category than Phylum.",
+        "options": [
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is correct but R is incorrect.",
+            "A is incorrect but R is correct.",
+            "Both A and R are correct and R is the correct explanation of A."
+        ],
+        "answer": "Both A and R are correct but R is not the correct explanation of A.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 80,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Species is a higher taxonomic category than Genus.",
+        "options": [
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is incorrect but R is correct.",
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is correct but R is incorrect."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 81,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Family is a higher taxonomic category than Order.",
+        "options": [
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is incorrect but R is correct.",
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is correct but R is incorrect."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 82,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Class is a higher taxonomic category than Phylum.",
+        "options": [
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is correct but R is incorrect.",
+            "A is incorrect but R is correct.",
+            "Both A and R are correct but R is not the correct explanation of A."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 83,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Phylum is a higher taxonomic category than Class.",
+        "options": [
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is correct but R is incorrect.",
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is incorrect but R is correct."
+        ],
+        "answer": "Both A and R are correct but R is not the correct explanation of A.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 84,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Phylum is a higher taxonomic category than Kingdom.",
+        "options": [
+            "Both A and R are correct and R is the correct explanation of A.",
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is correct but R is incorrect.",
+            "A is incorrect but R is correct."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 85,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Species is a higher taxonomic category than Genus.",
+        "options": [
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is correct but R is incorrect.",
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is incorrect but R is correct."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 86,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Phylum is a higher taxonomic category than Kingdom.",
+        "options": [
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is incorrect but R is correct.",
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is correct but R is incorrect."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 87,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Phylum is a higher taxonomic category than Kingdom.",
+        "options": [
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is correct but R is incorrect.",
+            "A is incorrect but R is correct.",
+            "Both A and R are correct and R is the correct explanation of A."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 88,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Genus is a higher taxonomic category than Species.",
+        "options": [
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is correct but R is incorrect.",
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is incorrect but R is correct."
+        ],
+        "answer": "Both A and R are correct but R is not the correct explanation of A.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 89,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Class is a higher taxonomic category than Phylum.",
+        "options": [
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is correct but R is incorrect.",
+            "A is incorrect but R is correct.",
+            "Both A and R are correct and R is the correct explanation of A."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 90,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Class is a higher taxonomic category than Order.",
+        "options": [
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is correct but R is incorrect.",
+            "A is incorrect but R is correct.",
+            "Both A and R are correct and R is the correct explanation of A."
+        ],
+        "answer": "Both A and R are correct but R is not the correct explanation of A.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 91,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Genus is a higher taxonomic category than Species.",
+        "options": [
+            "A is incorrect but R is correct.",
+            "Both A and R are correct and R is the correct explanation of A.",
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is correct but R is incorrect."
+        ],
+        "answer": "Both A and R are correct but R is not the correct explanation of A.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 92,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Family is a higher taxonomic category than Genus.",
+        "options": [
+            "Both A and R are correct and R is the correct explanation of A.",
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is incorrect but R is correct.",
+            "A is correct but R is incorrect."
+        ],
+        "answer": "Both A and R are correct but R is not the correct explanation of A.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 93,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Family is a higher taxonomic category than Order.",
+        "options": [
+            "A is correct but R is incorrect.",
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is incorrect but R is correct.",
+            "Both A and R are correct but R is not the correct explanation of A."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 94,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Class is a higher taxonomic category than Order.",
+        "options": [
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is incorrect but R is correct.",
+            "A is correct but R is incorrect.",
+            "Both A and R are correct but R is not the correct explanation of A."
+        ],
+        "answer": "Both A and R are correct but R is not the correct explanation of A.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 95,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Phylum is a higher taxonomic category than Class.",
+        "options": [
+            "A is incorrect but R is correct.",
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is correct but R is incorrect."
+        ],
+        "answer": "Both A and R are correct but R is not the correct explanation of A.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 96,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Species is a higher taxonomic category than Genus.",
+        "options": [
+            "A is correct but R is incorrect.",
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is incorrect but R is correct.",
+            "Both A and R are correct but R is not the correct explanation of A."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 97,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Phylum is a higher taxonomic category than Class.",
+        "options": [
+            "A is correct but R is incorrect.",
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is incorrect but R is correct.",
+            "Both A and R are correct but R is not the correct explanation of A."
+        ],
+        "answer": "Both A and R are correct but R is not the correct explanation of A.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 98,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Family is a higher taxonomic category than Order.",
+        "options": [
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is incorrect but R is correct.",
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is correct but R is incorrect."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 99,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Phylum is a higher taxonomic category than Kingdom.",
+        "options": [
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is incorrect but R is correct.",
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is correct but R is incorrect."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 100,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Genus is a higher taxonomic category than Family.",
+        "options": [
+            "A is incorrect but R is correct.",
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is correct but R is incorrect.",
+            "Both A and R are correct and R is the correct explanation of A."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 101,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Species is a higher taxonomic category than Genus.",
+        "options": [
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is incorrect but R is correct.",
+            "A is correct but R is incorrect.",
+            "Both A and R are correct and R is the correct explanation of A."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 102,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Genus is a higher taxonomic category than Species.",
+        "options": [
+            "A is correct but R is incorrect.",
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is incorrect but R is correct.",
+            "Both A and R are correct but R is not the correct explanation of A."
+        ],
+        "answer": "Both A and R are correct but R is not the correct explanation of A.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 103,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Order is a higher taxonomic category than Class.",
+        "options": [
+            "A is incorrect but R is correct.",
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is correct but R is incorrect.",
+            "Both A and R are correct but R is not the correct explanation of A."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 104,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Order is a higher taxonomic category than Class.",
+        "options": [
+            "A is incorrect but R is correct.",
+            "A is correct but R is incorrect.",
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "Both A and R are correct and R is the correct explanation of A."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 105,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Family is a higher taxonomic category than Order.",
+        "options": [
+            "A is correct but R is incorrect.",
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is incorrect but R is correct."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 106,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Family is a higher taxonomic category than Genus.",
+        "options": [
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is incorrect but R is correct.",
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is correct but R is incorrect."
+        ],
+        "answer": "Both A and R are correct but R is not the correct explanation of A.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 107,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Family is a higher taxonomic category than Order.",
+        "options": [
+            "A is incorrect but R is correct.",
+            "A is correct but R is incorrect.",
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "Both A and R are correct and R is the correct explanation of A."
+        ],
+        "answer": "A is incorrect but R is correct.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 108,
+        "type": "Assertion-Reason",
+        "question": "Assertion (A): Phylum is a higher taxonomic category than Class.",
+        "options": [
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is correct but R is incorrect.",
+            "A is incorrect but R is correct.",
+            "Both A and R are correct and R is the correct explanation of A."
+        ],
+        "answer": "Both A and R are correct but R is not the correct explanation of A.",
+        "explanation": "Hierarchy order is Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom. Number of common characteristics decreases as we go up."
+    },
+    {
+        "id": 109,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The specific epithet starts with a small letter.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The specific epithet starts with a small letter."
+    },
+    {
+        "id": 110,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Biological names are generally in Latin and written in italics.\nB. Biological names are generally in Greek and written in bold.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Biological names are generally in Latin and written in italics."
+    },
+    {
+        "id": 111,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when printed, are italicized to indicate their Latin origin.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when printed, are italicized to indicate their Latin origin."
+    },
+    {
+        "id": 112,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nB. The first word denoting the genus starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word in a biological name represents the genus while the second component denotes the specific epithet."
+    },
+    {
+        "id": 113,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The specific epithet starts with a small letter.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The specific epithet starts with a small letter."
+    },
+    {
+        "id": 114,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word denoting the genus starts with a capital letter.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word denoting the genus starts with a capital letter."
+    },
+    {
+        "id": 115,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 116,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word denoting the genus starts with a capital letter.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Both statements are incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word denoting the genus starts with a capital letter."
+    },
+    {
+        "id": 117,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word in a biological name represents the genus while the second component denotes the specific epithet."
+    },
+    {
+        "id": 118,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Biological names are generally in Latin and written in italics.\nB. Both the words in a biological name, when printed, are italicized to indicate their Greek origin.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Biological names are generally in Latin and written in italics."
+    },
+    {
+        "id": 119,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nB. The first word denoting the genus starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word in a biological name represents the genus while the second component denotes the specific epithet."
+    },
+    {
+        "id": 120,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word denoting the genus starts with a capital letter.\nB. Biological names are generally in Greek and written in bold.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word denoting the genus starts with a capital letter."
+    },
+    {
+        "id": 121,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nB. Both the words in a biological name, when handwritten, are separately underlined.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word in a biological name represents the genus while the second component denotes the specific epithet."
+    },
+    {
+        "id": 122,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when printed, are italicized to indicate their Latin origin.\nB. Both the words in a biological name, when handwritten, are separately underlined.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Both statements are incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when printed, are italicized to indicate their Latin origin."
+    },
+    {
+        "id": 123,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when printed, are italicized to indicate their Latin origin.\nB. Both the words in a biological name, when handwritten, are separately underlined.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Both statements are incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when printed, are italicized to indicate their Latin origin."
+    },
+    {
+        "id": 124,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. The first word denoting the genus starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 125,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when printed, are italicized to indicate their Latin origin.\nB. Both the words in a biological name, when handwritten, are separately underlined.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when printed, are italicized to indicate their Latin origin."
+    },
+    {
+        "id": 126,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when printed, are italicized to indicate their Latin origin.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when printed, are italicized to indicate their Latin origin."
+    },
+    {
+        "id": 127,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when printed, are italicized to indicate their Latin origin.\nB. Biological names are generally in Greek and written in bold.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when printed, are italicized to indicate their Latin origin."
+    },
+    {
+        "id": 128,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The specific epithet starts with a small letter.\nB. Both the words in a biological name, when handwritten, are separately underlined.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The specific epithet starts with a small letter."
+    },
+    {
+        "id": 129,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Biological names are generally in Latin and written in italics.\nB. The first word denoting the genus starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Biological names are generally in Latin and written in italics."
+    },
+    {
+        "id": 130,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when printed, are italicized to indicate their Latin origin.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when printed, are italicized to indicate their Latin origin."
+    },
+    {
+        "id": 131,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nB. The first word denoting the genus starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word in a biological name represents the genus while the second component denotes the specific epithet."
+    },
+    {
+        "id": 132,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nB. Biological names are generally in Greek and written in bold.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word in a biological name represents the genus while the second component denotes the specific epithet."
+    },
+    {
+        "id": 133,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when printed, are italicized to indicate their Latin origin.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when printed, are italicized to indicate their Latin origin."
+    },
+    {
+        "id": 134,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word in a biological name represents the genus while the second component denotes the specific epithet."
+    },
+    {
+        "id": 135,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nB. The first word denoting the genus starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word in a biological name represents the genus while the second component denotes the specific epithet."
+    },
+    {
+        "id": 136,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when printed, are italicized to indicate their Latin origin.\nB. Biological names are generally in Greek and written in bold.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when printed, are italicized to indicate their Latin origin."
+    },
+    {
+        "id": 137,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The specific epithet starts with a small letter.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct.",
+            "Both statements are incorrect.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The specific epithet starts with a small letter."
+    },
+    {
+        "id": 138,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Biological names are generally in Latin and written in italics.\nB. Both the words in a biological name, when printed, are italicized to indicate their Greek origin.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Biological names are generally in Latin and written in italics."
+    },
+    {
+        "id": 139,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 140,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when printed, are italicized to indicate their Latin origin.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when printed, are italicized to indicate their Latin origin."
+    },
+    {
+        "id": 141,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nB. Both the words in a biological name, when printed, are italicized to indicate their Greek origin.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word in a biological name represents the genus while the second component denotes the specific epithet."
+    },
+    {
+        "id": 142,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. Both the words in a biological name, when printed, are italicized to indicate their Greek origin.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 143,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word denoting the genus starts with a capital letter.\nB. Both the words in a biological name, when printed, are italicized to indicate their Greek origin.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word denoting the genus starts with a capital letter."
+    },
+    {
+        "id": 144,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The specific epithet starts with a small letter.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The specific epithet starts with a small letter."
+    },
+    {
+        "id": 145,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The specific epithet starts with a small letter.\nB. Both the words in a biological name, when handwritten, are separately underlined.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The specific epithet starts with a small letter."
+    },
+    {
+        "id": 146,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 147,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word denoting the genus starts with a capital letter.\nB. Both the words in a biological name, when printed, are italicized to indicate their Greek origin.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word denoting the genus starts with a capital letter."
+    },
+    {
+        "id": 148,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nB. Biological names are generally in English and written in bold.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word in a biological name represents the genus while the second component denotes the specific epithet."
+    },
+    {
+        "id": 149,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word denoting the genus starts with a capital letter.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are correct.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word denoting the genus starts with a capital letter."
+    },
+    {
+        "id": 150,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Biological names are generally in Latin and written in italics.\nB. The first word denoting the genus starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Biological names are generally in Latin and written in italics."
+    },
+    {
+        "id": 151,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 152,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The specific epithet starts with a small letter.\nB. Both the words in a biological name, when handwritten, are separately underlined.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The specific epithet starts with a small letter."
+    },
+    {
+        "id": 153,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Biological names are generally in Latin and written in italics.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Biological names are generally in Latin and written in italics."
+    },
+    {
+        "id": 154,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Biological names are generally in Latin and written in italics.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Biological names are generally in Latin and written in italics."
+    },
+    {
+        "id": 155,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. Both the words in a biological name, when printed, are italicized to indicate their Greek origin.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 156,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when printed, are italicized to indicate their Latin origin.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when printed, are italicized to indicate their Latin origin."
+    },
+    {
+        "id": 157,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word in a biological name represents the genus while the second component denotes the specific epithet."
+    },
+    {
+        "id": 158,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Biological names are generally in Latin and written in italics.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Biological names are generally in Latin and written in italics."
+    },
+    {
+        "id": 159,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The specific epithet starts with a small letter.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The specific epithet starts with a small letter."
+    },
+    {
+        "id": 160,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Biological names are generally in Latin and written in italics.\nB. The first word denoting the genus starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Biological names are generally in Latin and written in italics."
+    },
+    {
+        "id": 161,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when printed, are italicized to indicate their Latin origin.\nB. Both the words in a biological name, when printed, are italicized to indicate their Greek origin.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when printed, are italicized to indicate their Latin origin."
+    },
+    {
+        "id": 162,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 163,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word denoting the genus starts with a capital letter.\nB. Biological names are generally in English and written in bold.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word denoting the genus starts with a capital letter."
+    },
+    {
+        "id": 164,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word denoting the genus starts with a capital letter.\nB. Biological names are generally in Greek and written in bold.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word denoting the genus starts with a capital letter."
+    },
+    {
+        "id": 165,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word denoting the genus starts with a capital letter.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word denoting the genus starts with a capital letter."
+    },
+    {
+        "id": 166,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. The first word denoting the genus starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 167,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 168,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word denoting the genus starts with a capital letter.\nB. Biological names are generally in English and written in bold.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are correct.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word denoting the genus starts with a capital letter."
+    },
+    {
+        "id": 169,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The specific epithet starts with a small letter.\nB. Both the words in a biological name, when printed, are italicized to indicate their Greek origin.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The specific epithet starts with a small letter."
+    },
+    {
+        "id": 170,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The specific epithet starts with a small letter.\nB. Both the words in a biological name, when handwritten, are separately underlined.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The specific epithet starts with a small letter."
+    },
+    {
+        "id": 171,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are correct.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 172,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The specific epithet starts with a small letter.\nB. Biological names are generally in Greek and written in bold.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Both statements are correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The specific epithet starts with a small letter."
+    },
+    {
+        "id": 173,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when printed, are italicized to indicate their Latin origin.\nB. Both the words in a biological name, when printed, are italicized to indicate their Greek origin.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when printed, are italicized to indicate their Latin origin."
+    },
+    {
+        "id": 174,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nB. Biological names are generally in Greek and written in bold.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word in a biological name represents the genus while the second component denotes the specific epithet."
+    },
+    {
+        "id": 175,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word denoting the genus starts with a capital letter.\nB. Both the words in a biological name, when handwritten, are separately underlined.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word denoting the genus starts with a capital letter."
+    },
+    {
+        "id": 176,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Biological names are generally in Latin and written in italics.\nB. Both the words in a biological name, when printed, are italicized to indicate their Greek origin.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Biological names are generally in Latin and written in italics."
+    },
+    {
+        "id": 177,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The specific epithet starts with a small letter.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The specific epithet starts with a small letter."
+    },
+    {
+        "id": 178,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The specific epithet starts with a small letter.\nB. Both the words in a biological name, when printed, are italicized to indicate their Greek origin.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The specific epithet starts with a small letter."
+    },
+    {
+        "id": 179,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Biological names are generally in Latin and written in italics.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are correct.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Biological names are generally in Latin and written in italics."
+    },
+    {
+        "id": 180,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nB. Both the words in a biological name, when printed, are italicized to indicate their Greek origin.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word in a biological name represents the genus while the second component denotes the specific epithet."
+    },
+    {
+        "id": 181,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nB. Biological names are generally in English and written in bold.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word in a biological name represents the genus while the second component denotes the specific epithet."
+    },
+    {
+        "id": 182,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 183,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when printed, are italicized to indicate their Latin origin.\nB. Both the words in a biological name, when printed, are italicized to indicate their Greek origin.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when printed, are italicized to indicate their Latin origin."
+    },
+    {
+        "id": 184,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. Biological names are generally in Greek and written in bold.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Both statements are correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 185,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The specific epithet starts with a small letter.\nB. Both the words in a biological name, when handwritten, are separately underlined.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The specific epithet starts with a small letter."
+    },
+    {
+        "id": 186,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when printed, are italicized to indicate their Latin origin.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when printed, are italicized to indicate their Latin origin."
+    },
+    {
+        "id": 187,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word denoting the genus starts with a capital letter.\nB. Both the words in a biological name, when printed, are italicized to indicate their Greek origin.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word denoting the genus starts with a capital letter."
+    },
+    {
+        "id": 188,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. Biological names are generally in English and written in bold.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Both statements are correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 189,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 190,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nB. Biological names are generally in Greek and written in bold.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word in a biological name represents the genus while the second component denotes the specific epithet."
+    },
+    {
+        "id": 191,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Biological names are generally in Latin and written in italics.\nB. Biological names are generally in Greek and written in bold.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Biological names are generally in Latin and written in italics."
+    },
+    {
+        "id": 192,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when printed, are italicized to indicate their Latin origin.\nB. Both the words in a biological name, when handwritten, are separately underlined.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when printed, are italicized to indicate their Latin origin."
+    },
+    {
+        "id": 193,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word denoting the genus starts with a capital letter.\nB. Biological names are generally in Greek and written in bold.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word denoting the genus starts with a capital letter."
+    },
+    {
+        "id": 194,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when printed, are italicized to indicate their Latin origin.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when printed, are italicized to indicate their Latin origin."
+    },
+    {
+        "id": 195,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nB. Both the words in a biological name, when printed, are italicized to indicate their Greek origin.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct.",
+            "Both statements are incorrect.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word in a biological name represents the genus while the second component denotes the specific epithet."
+    },
+    {
+        "id": 196,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word denoting the genus starts with a capital letter.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word denoting the genus starts with a capital letter."
+    },
+    {
+        "id": 197,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 198,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. The first word in a biological name represents the genus while the second component denotes the specific epithet.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 199,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. Both the words in a biological name, when handwritten, are separately underlined.\nB. The specific epithet starts with a capital letter.\nSelect the correct option.",
+        "options": [
+            "Statement A is correct and B is incorrect.",
+            "Both statements are correct.",
+            "Statement A is incorrect and B is correct.",
+            "Both statements are incorrect."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. Both the words in a biological name, when handwritten, are separately underlined."
+    },
+    {
+        "id": 200,
+        "type": "MCQ",
+        "question": "Read the following statements regarding nomenclature:\nA. The first word denoting the genus starts with a capital letter.\nB. Both the words in a biological name, when handwritten, are separately underlined.\nSelect the correct option.",
+        "options": [
+            "Statement A is incorrect and B is correct.",
+            "Statement A is correct and B is incorrect.",
+            "Both statements are incorrect.",
+            "Both statements are correct."
+        ],
+        "answer": "Statement A is correct and B is incorrect.",
+        "explanation": "Based on ICBN rules of binomial nomenclature. The first word denoting the genus starts with a capital letter."
+    }
+]
